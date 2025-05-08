@@ -1,10 +1,3 @@
----
-title: "What is a CASB?"
-description: "An overview of Cloud Access Security Brokers and their role in data protection."
-slug: /11-references-&-glossary/what-is-casb
-keywords: [fenixpyre, casb, security, glossary]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 CASBs provide essential security for cloud interactions, helping organizations enforce policies and mitigate risks.

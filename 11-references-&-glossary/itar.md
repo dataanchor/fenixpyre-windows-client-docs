@@ -1,10 +1,3 @@
----
-title: "What is ITAR"
-description: "Learn about International Traffic in Arms Regulations and their role in secure data handling with FenixPyre."
-slug: /11-references-&-glossary/itar
-keywords: [fenixpyre, itar, regulations, compliance]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 ITAR regulations help protect national security by controlling the export of defense-related items, ensuring that FenixPyre's encryption aligns with compliance needs for sensitive data.

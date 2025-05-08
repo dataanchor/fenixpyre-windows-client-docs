@@ -1,10 +1,3 @@
----
-title: "Integrating with Egnyte"
-description: "Step-by-step guide to encrypting and securing data using Egnyte integration with FenixPyre."
-slug: /03-setup-&-installation/egnyte-integration
-keywords: [fenixpyre, encryption, egnyte, setup]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 Integrating FenixPyre with Egnyte ensures that your shared files are automatically encrypted, protecting sensitive data during collaboration and storage.

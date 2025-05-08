@@ -1,10 +1,3 @@
----
-title: "What is a Data Access Security Broker (DASB)?"
-description: "Explanation of Data Access Security Brokers and their role in data protection."
-slug: /02-core-concepts/dasb
-keywords: [fenixpyre, encryption, dasb, security]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 DASBs provide an essential layer of control and monitoring for data access, helping prevent breaches and ensure compliance.

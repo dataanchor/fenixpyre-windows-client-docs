@@ -1,10 +1,3 @@
----
-title: "Compliance Mode"
-description: "Enhance data security and achieve CMMC compliance using FenixPyre's Compliance Mode on Windows desktops."
-slug: /07-features/compliance-mode
-keywords: [fenixpyre, compliance, CMMC, encryption]
-last_updated: 2025-05-06
----
 
 ## Why it matters
 FenixPyre Compliance Mode ensures consistent encryption policies for sensitive data, helping organizations meet CMMC guidelines and protect against unauthorized access.

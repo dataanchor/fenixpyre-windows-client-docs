@@ -1,10 +1,3 @@
----
-title: "Enforcing Encryption Outside Protected Folders"
-description: "Understand how to enforce FenixPyre encryption for files created outside designated protected areas."
-slug: /02-core-concepts/enforce-encryption-outside-protected-folders
-keywords: [fenixpyre, encryption, policies, core-concepts]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Enforcing encryption outside protected folders prevents data leaks by ensuring files from specific processes are always secured, regardless of location.

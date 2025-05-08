@@ -1,10 +1,3 @@
----
-title: "Resetting an Admin Password"
-description: "Step-by-step instructions for resetting an admin password in the FenixPyre Admin Dashboard to maintain secure access."
-slug: /04-admin-guide/reset-admin-password
-keywords: [fenixpyre, admin, password-reset, security]
-last_updated: 2025-05-06
----
 
 ## Why it matters
 Quickly resetting admin passwords helps maintain strong security and access control in FenixPyre, preventing unauthorized entry.

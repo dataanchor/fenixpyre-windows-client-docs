@@ -1,10 +1,3 @@
----
-title: "FenixPyre Architecture Overview"
-description: "An overview of the FenixPyre system's architecture and key components."
-slug: /02-core-concepts/architecture-overview
-keywords: [fenixpyre, architecture, encryption]
-last_updated: 2023-10-01
----
 
 Why it matters: Understanding FenixPyre's architecture ensures effective implementation and security in DevSecOps environments.
 

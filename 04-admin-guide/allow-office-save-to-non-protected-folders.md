@@ -1,10 +1,3 @@
----
-title: "Allow Office Applications to Save Files to Non-Protected Folders"
-description: "Configure FenixPyre to enable Office applications and Adobe Acrobat to save files to non-protected folders for seamless workflow integration."
-slug: /04-admin-guide/allow-office-save-to-non-protected-folders
-keywords: [fenixpyre, encryption, office-integration]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Enabling this feature ensures that users can work efficiently with Office applications and Adobe Acrobat while maintaining data security, preventing accidental restrictions on file saving.

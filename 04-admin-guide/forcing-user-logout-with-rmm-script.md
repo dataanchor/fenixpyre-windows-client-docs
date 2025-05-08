@@ -1,10 +1,3 @@
----
-title: "Forcing User Logout Using an RMM Script"
-description: "Automate user logout and certificate renewal for FenixPyre Agent using a PowerShell script via RMM tools."
-slug: /04-admin-guide/forcing-user-logout-rmm-script
-keywords: [fenixpyre, encryption, rmm, powershell, admin]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Forcing logouts helps manage certificate expirations and security issues without full reinstalls, maintaining agent integrity.

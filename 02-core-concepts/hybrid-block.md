@@ -1,10 +1,3 @@
----
-title: "Hybrid Block Concept"
-description: "Understand FenixPyre's Hybrid Block feature for protecting files in mixed access scenarios."
-slug: /02-core-concepts/hybrid-block
-keywords: [fenixpyre, encryption, hybrid-block]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Hybrid Block prevents unauthorized data exposure by blocking simultaneous access to protected and unprotected files in the same application.

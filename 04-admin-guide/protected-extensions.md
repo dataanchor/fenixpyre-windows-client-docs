@@ -1,10 +1,3 @@
----
-title: "Managing Protected File Extensions"
-description: "How to add or remove file extensions that FenixPyre encrypts and protects in the Admin Dashboard."
-slug: /04-admin-guide/protected-extensions
-keywords: [fenixpyre, encryption, protected extensions, admin guide]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 Controlling protected extensions ensures that only specified file types are encrypted, enhancing data security and compliance.

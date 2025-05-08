@@ -1,10 +1,3 @@
----
-title: "On-Prem Secure Sharing Service Setup and Create New File"
-description: "How to set up FenixPyre's On-Prem Secure Sharing and create encrypted files for compliance and security."
-slug: /07-features/on-prem-secure-sharing-setup
-keywords: [fenixpyre, on-prem, secure-sharing, encryption]
-last_updated: 2025-05-06
----
 
 ## Why it matters
 On-Prem Secure Sharing keeps sensitive data within your infrastructure, ensuring compliance with standards like CMMC and enhancing end-to-end encryption.

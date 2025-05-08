@@ -1,10 +1,3 @@
----
-title: "What is Per-File Encryption?"
-description: "Understand per-file encryption and its role in FenixPyre for securing individual files against unauthorized access (under 160 characters)."
-slug: /02-core-concepts/per-file-encryption
-keywords: [fenixpyre, encryption, per-file, security]
-last_updated: 2023-10-01
----
 
 Why it matters: Per-file encryption protects sensitive data at the file level, ensuring that even if a device is compromised, individual files remain secure.
 

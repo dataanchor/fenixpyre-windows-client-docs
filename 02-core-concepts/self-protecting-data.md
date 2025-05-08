@@ -1,10 +1,3 @@
----
-title: "What is Self-Protecting Data?"
-description: "Understand self-protecting data and its role in securing sensitive information through encryption and automated defenses."
-slug: /02-core-concepts/self-protecting-data
-keywords: [fenixpyre, encryption, data-security]
-last_updated: 2023-10-01
----
 
 # What is Self-Protecting Data?
 

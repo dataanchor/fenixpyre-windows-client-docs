@@ -1,10 +1,3 @@
----
-title: "FenixPyre Protection Enabled Notification"
-description: "Understand the 'Protection Enabled' notification in FenixPyre and how to resolve related issues."
-slug: /05-user-guide/protection-enabled-notification
-keywords: [fenixpyre, encryption, notifications, user-guide]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 This notification helps users maintain security by preventing simultaneous access to encrypted and unencrypted files, reducing breach risks.

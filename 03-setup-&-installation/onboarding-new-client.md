@@ -1,10 +1,3 @@
----
-title: "Onboarding a New Client"
-description: "Step-by-step guide to onboarding a new client in FenixPyre, from initial setup to deployment."
-slug: /03-setup-&-installation/onboarding-new-client
-keywords: [fenixpyre, onboarding, installation, setup]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Proper onboarding ensures clients can quickly and securely implement FenixPyre, minimizing deployment risks and enhancing data protection.

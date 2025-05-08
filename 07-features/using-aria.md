@@ -1,10 +1,3 @@
----
-title: "Getting Started with ARIA"
-description: "Discover how ARIA, powered by AI, simplifies report analysis for FenixPyre users, providing quick insights without manual effort."
-slug: /07-features/using-aria
-keywords: [fenixpyre, aria, reports, ai-insights]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 ARIA streamlines data analysis in FenixPyre by leveraging AI to deliver actionable insights from reports, saving time and reducing errors for teams managing encrypted data.

@@ -1,10 +1,3 @@
----
-title: "Access Denied When Attempting to Sign Up for FenixPyre"
-description: "Learn how to resolve access issues when signing up for FenixPyre, ensuring secure onboarding for data protection."
-slug: /09-troubleshooting-&-faq/access-denied-sign-up
-keywords: [fenixpyre, sign-up, troubleshooting, access]
-last_updated: 2023-10-01
----
 
 ## Why It Matters
 

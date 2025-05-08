@@ -1,10 +1,3 @@
----
-title: "Add Protected Folders in a Distributed File System Environment"
-description: "Guide to adding and managing protected (encrypted) folders in DFS, UNC, or mapped drive setups for enhanced security."
-slug: /05-user-guide/add-protected-folders
-keywords: [fenixpyre, encryption, protected-folders, dfs]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 Protecting folders in a distributed file system ensures data encryption across multiple paths, maintaining security in shared environments.

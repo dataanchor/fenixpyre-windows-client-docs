@@ -1,10 +1,3 @@
----
-title: "Encrypt and Decrypt Files in Egnyte"
-description: "Guide to encrypting and decrypting files within the Egnyte platform using FenixPyre."
-slug: /05-user-guide/encrypt-decrypt-files-egnyte
-keywords: [fenixpyre, encryption, egnyte, files]
-last_updated: 2025-05-06
----
 
 ## Why it matters
 Encrypting files in Egnyte with FenixPyre adds an extra layer of security, protecting sensitive data stored in cloud platforms.

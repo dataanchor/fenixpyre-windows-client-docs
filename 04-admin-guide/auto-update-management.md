@@ -1,10 +1,3 @@
----
-title: "Managing Auto-Updates in FenixPyre"
-description: "Guide for FenixPyre administrators on controlling auto-updates for the agent software to ensure secure and controlled deployments."
-slug: /04-admin-guide/auto-update-management
-keywords: [fenixpyre, auto-updates, admin guide, encryption]
-last_updated: 2023-01-01
----
 
 ## Why It Matters
 Auto-update management allows administrators to test and deploy software updates safely, maintaining control over system integrity and minimizing disruptions.

@@ -1,10 +1,3 @@
----
-title: "Prerequisites for Enabling Auto-Encryption on a Folder"
-description: "Understand the requirements for setting up auto-encryption to ensure seamless data protection in FenixPyre."
-slug: /03-setup-&-installation/prerequisites-auto-encryption
-keywords: [fenixpyre, encryption, prerequisites, auto-encryption]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Proper prerequisites ensure that auto-encryption is implemented efficiently, preventing issues like storage overload and maintaining system performance.

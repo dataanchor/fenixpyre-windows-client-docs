@@ -1,10 +1,3 @@
----
-title: "Auto-Encryption Feature"
-description: "Overview of FenixPyre's auto-encryption for OneDrive and SharePoint, including setup and management."
-slug: /07-features/auto-encryption
-keywords: [fenixpyre, auto-encryption, onedrive, sharepoint]
-last_updated: 2023-10-01
----
 
 # Auto-Encryption Feature
 

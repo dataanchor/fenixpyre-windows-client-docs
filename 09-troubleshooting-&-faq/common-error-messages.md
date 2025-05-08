@@ -1,10 +1,3 @@
----
-title: "Common Error Messages"
-description: "Overview of common errors in FenixPyre with OneDrive/SharePoint and resolution steps."
-slug: /09-troubleshooting-&-faq/common-error-messages
-keywords: [fenixpyre, troubleshooting, errors, onedrive]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Recognizing and resolving these errors prevents disruptions in data encryption and access, maintaining productivity and security.

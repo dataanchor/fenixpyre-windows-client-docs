@@ -1,10 +1,3 @@
----
-title: "FenixPyre Product Language Guide"
-description: "Reference for FenixPyre's product terminology and language resources."
-slug: /11-references-&-glossary/product-language
-keywords: [fenixpyre, glossary, terminology]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 Understanding FenixPyre's product language ensures consistent communication and proper usage of terms in documentation and operations.

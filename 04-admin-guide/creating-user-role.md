@@ -1,10 +1,3 @@
----
-title: "Creating a New User Role"
-description: "Guide for administrators to create and manage user roles in FenixPyre for effective data control."
-slug: /04-admin-guide/creating-user-role
-keywords: [fenixpyre, user roles, administration, access control]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 User roles in FenixPyre enable administrators to define access levels and enforce data control strategies, enhancing security and compliance.

@@ -1,10 +1,3 @@
----
-title: "How to Encrypt and Decrypt Files"
-description: "Step-by-step guide on encrypting and decrypting files and folders using the FenixPyre Desktop Agent for enhanced data security."
-slug: /05-user-guide/how-to-encrypt-decrypt-files
-keywords: [fenixpyre, encryption, decryption, files, folders]
-last_updated: 2025-05-06
----
 
 ## Why it matters
 Encrypting and decrypting files with FenixPyre helps protect sensitive data from unauthorized access, ensuring compliance and security in file management.

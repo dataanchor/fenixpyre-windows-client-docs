@@ -1,10 +1,3 @@
----
-title: "DLP Protection for Microsoft Office"
-description: "How FenixPyre prevents data leaks in Microsoft Office applications."
-slug: /07-features/dlp-protection
-keywords: [fenixpyre, DLP, Microsoft Office, data security]
-last_updated: 2025-05-06
----
 
 ## Why it matters
 FenixPyre's DLP features block unauthorized sharing or exporting of protected data, minimizing risks in common business applications.

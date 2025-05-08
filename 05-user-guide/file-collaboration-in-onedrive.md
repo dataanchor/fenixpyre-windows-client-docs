@@ -1,10 +1,3 @@
----
-title: "File Collaboration Settings in OneDrive"
-description: "Configure FenixPyre settings in OneDrive to prevent data leaks during collaboration."
-slug: /05-user-guide/file-collaboration-in-onedrive
-keywords: [fenixpyre, onedrive, collaboration]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Disabling certain OneDrive settings with FenixPyre prevents unencrypted data from entering version history, enhancing security.

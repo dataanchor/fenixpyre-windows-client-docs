@@ -1,10 +1,3 @@
----
-title: "Uninstalling the FenixPyre Agent"
-description: "Steps to decrypt files and remove the FenixPyre agent after use."
-slug: /09-troubleshooting-&-faq/uninstalling-fenixpyre-agent
-keywords: [fenixpyre, decryption, uninstall, troubleshooting]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Properly uninstalling the FenixPyre agent ensures all data is decrypted and no residual components remain, maintaining system cleanliness.

@@ -1,10 +1,3 @@
----
-title: "Airplane Mode for Offline Access"
-description: "Enable offline access to encrypted files in FenixPyre while maintaining control, including time-limited access for authorized users."
-slug: /04-admin-guide/airplane-mode
-keywords: [fenixpyre, encryption, offline-access, admin-guide]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 Airplane mode allows secure offline work with encrypted files, ensuring organizational control and protection even without internet connectivity.

@@ -1,10 +1,3 @@
----
-title: "Sales Presentation Overview"
-description: "Access and use the FenixPyre sales presentation for various use cases."
-slug: /08-use-cases/sales-presentation
-keywords: [fenixpyre, use-cases, presentation]
-last_updated: 2023-10-01
----
 
 # Why it matters
 

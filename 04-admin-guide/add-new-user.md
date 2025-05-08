@@ -1,10 +1,3 @@
----
-title: "How to Add a New User in FenixPyre Admin Dashboard"
-description: "Learn how to add and manage users in the FenixPyre Admin Dashboard to maintain secure access control for your organization."
-slug: /04-admin-guide/add-new-user
-keywords: [fenixpyre, encryption, user management, admin dashboard]
-last_updated: 2023-07-10
----
 
 ## Why it matters
 Adding a new user to the FenixPyre Admin Dashboard ensures that only authorized personnel can access and manage encrypted data, enhancing security and compliance in your organization.

@@ -1,10 +1,3 @@
----
-title: "Securing Files on Network Shared Folders and Sharing via Outlook"
-description: "Steps to encrypt files on network shares and securely share them using Outlook with FenixPyre."
-slug: /05-user-guide/securing-network-files
-keywords: [fenixpyre, encryption, network-shares, outlook, sharing]
-last_updated: 2023-10-01
----
 
 ## Why It Matters
 Encrypting files on network shares protects sensitive data from breaches during storage and sharing.

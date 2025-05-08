@@ -1,10 +1,3 @@
----
-title: "Attaching a Decrypted Copy to Email in FenixPyre"
-description: "How to attach a decrypted version of an encrypted file to an email, with warnings on security risks."
-slug: /05-user-guide/attach-decrypted-copy-to-email
-keywords: [fenixpyre, decryption, email-sharing]
-last_updated: 2023-10-01
----
 
 Attaching a decrypted copy to email allows quick sharing but risks exposing sensitive data if not used carefully.
 

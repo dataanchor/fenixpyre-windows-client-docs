@@ -1,10 +1,3 @@
----
-title: "Setting Up Azure Key Vault Managed HSM"
-description: "Guide for admins to set up and manage Azure Key Vault for FenixPyre key management."
-slug: /04-admin-guide/setup-azure-key-vault
-keywords: [fenixpyre, encryption, azure, key-vault]
-last_updated: 2023-09-01
----
 
 ## Why it matters
 Azure Key Vault Managed HSM provides secure key management, enhancing FenixPyre's encryption capabilities and compliance.

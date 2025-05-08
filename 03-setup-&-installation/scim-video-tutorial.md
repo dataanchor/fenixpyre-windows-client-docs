@@ -1,10 +1,3 @@
----
-title: "SCIM Video Tutorial"
-description: "A guide to upcoming SCIM setup tutorials for FenixPyre integration."
-slug: /03-setup-&-installation/scim-video-tutorial
-keywords: [fenixpyre, scim, setup, integration]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 SCIM integration streamlines user provisioning and management, enhancing security and efficiency in FenixPyre setups.

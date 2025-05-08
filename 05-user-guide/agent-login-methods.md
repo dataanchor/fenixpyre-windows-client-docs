@@ -1,10 +1,3 @@
----
-title: "FenixPyre Agent Sign-In Options"
-description: "Explore the sign-in methods for the FenixPyre Agent and Dashboard to secure access to encrypted resources."
-slug: /05-user-guide/agent-login-methods
-keywords: [fenixpyre, encryption, agent login, SSO]
-last_updated: 2023-07-10
----
 
 ## Why it matters
 Understanding FenixPyre sign-in options helps users securely access encrypted files and dashboards, reducing the risk of unauthorized entry.

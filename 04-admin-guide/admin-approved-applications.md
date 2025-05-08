@@ -1,10 +1,3 @@
----
-title: "Managing Admin Approved Applications"
-description: "Learn how to add and manage admin approved applications in FenixPyre to control access to plain text data."
-slug: /04-admin-guide/admin-approved-applications
-keywords: [fenixpyre, admin, applications, security]
-last_updated: 2023-10-01
----
 
 ## Why It Matters
 Admin approved applications allow organizations to securely permit non-certified apps to handle plain text, enhancing control and reducing risks in data environments.

@@ -1,10 +1,3 @@
----
-title: "Getting Started as an Admin"
-description: "Learn the essential steps for admins to set up and configure FenixPyre for your organization."
-slug: /03-setup-&-installation/getting-started-admin
-keywords: [fenixpyre, encryption, setup, admin]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Proper setup as an admin ensures secure encryption and access control for your organization's data, protecting sensitive information from unauthorized access.

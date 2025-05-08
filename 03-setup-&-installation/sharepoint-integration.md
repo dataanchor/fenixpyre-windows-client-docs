@@ -1,10 +1,3 @@
----
-title: "Setting Up FenixPyre Add-in for SharePoint"
-description: "Guide to configure FenixPyre integration with SharePoint for seamless encryption."
-slug: /03-setup-&-installation/sharepoint-integration
-keywords: [fenixpyre, encryption, sharepoint, setup]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 Integrating FenixPyre with SharePoint protects your data with encryption while enabling secure collaboration in Microsoft environments.

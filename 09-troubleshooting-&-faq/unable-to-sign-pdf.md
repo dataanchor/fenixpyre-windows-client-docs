@@ -1,10 +1,3 @@
----
-title: "Troubleshooting PDF Signing Issues"
-description: "Learn how to resolve issues with signing PDFs using FenixPyre, including image type recommendations for compatibility."
-slug: /09-troubleshooting-&-faq/unable-to-sign-pdf
-keywords: [fenixpyre, encryption, pdf, troubleshooting]
-last_updated: 2025-05-06
----
 
 ## Why it matters
 Resolving PDF signing problems ensures secure and reliable document encryption in FenixPyre, preventing disruptions in workflows.

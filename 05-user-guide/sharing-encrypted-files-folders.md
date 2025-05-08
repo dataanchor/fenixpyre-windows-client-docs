@@ -1,10 +1,3 @@
----
-title: "Sharing Encrypted Files or Folders"
-description: "Guide to sharing encrypted files and folders securely with FenixPyre."
-slug: /05-user-guide/sharing-encrypted-files-folders
-keywords: [fenixpyre, sharing, encryption, egnyte]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Secure sharing of encrypted files protects sensitive data during collaboration, ensuring only authorized users can access it.

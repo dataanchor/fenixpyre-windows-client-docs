@@ -1,10 +1,3 @@
----
-title: "How to Manage Auto-Encryption Folders"
-description: "Guide for admins on administering auto-encryption folders in FenixPyre, including disabling, removing, and pausing."
-slug: /04-admin-guide/managing-auto-encryption-folders
-keywords: [fenixpyre, encryption, admin-guide, auto-encryption]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Proper management of auto-encryption folders ensures that sensitive data is encrypted automatically, enhancing security while allowing admins to control access and performance.

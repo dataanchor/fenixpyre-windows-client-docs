@@ -1,10 +1,3 @@
----
-title: "What is Multi-Factor Authentication (MFA)?"
-description: "An overview of MFA and its role in enhancing security for FenixPyre users."
-slug: /11-references-&-glossary/what-is-mfa
-keywords: [fenixpyre, mfa, security]
-last_updated: 2023-10-01
----
 
 # Why it matters
 

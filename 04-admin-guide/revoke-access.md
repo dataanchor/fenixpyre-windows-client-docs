@@ -1,10 +1,3 @@
----
-title: "Revoke Access to Encrypted Files"
-description: "How administrators can revoke access to encrypted files in FenixPyre for enhanced security."
-slug: /04-admin-guide/revoke-access
-keywords: [fenixpyre, encryption, revoke access, admin guide]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 Revoking access quickly protects data by denying unauthorized users entry, such as those disabled in the admin dashboard or violating policies.

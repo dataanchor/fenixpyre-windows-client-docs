@@ -1,10 +1,3 @@
----
-title: "What is a FIPS 140-2 Validated Algorithm?"
-description: "Understand FIPS 140-2 validated algorithms and their role in secure encryption for FenixPyre."
-slug: /02-core-concepts/fips-140-2-algorithm
-keywords: [fenixpyre, encryption, fips-140-2, security-standards]
-last_updated: 2023-07-09
----
 
 ## Why it matters
 FIPS 140-2 validated algorithms ensure that encryption methods meet rigorous U.S. government standards, providing reliable protection for sensitive data in FenixPyre.

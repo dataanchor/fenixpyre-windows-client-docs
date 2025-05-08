@@ -1,10 +1,3 @@
----
-title: "FenixPyre Impact for FINRA Compliance"
-description: "Guidance on using FenixPyre to meet FINRA requirements through data encryption and control."
-slug: /08-use-cases/finra-impact
-keywords: [fenixpyre, finra, compliance, encryption]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 FenixPyre helps organizations achieve FINRA compliance by encrypting sensitive data and maintaining control, reducing regulatory risks.

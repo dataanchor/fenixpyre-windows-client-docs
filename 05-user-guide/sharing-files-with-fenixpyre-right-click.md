@@ -1,10 +1,3 @@
----
-title: "Sharing Files Using FenixPyre Right-Click Menu"
-description: "How to securely share encrypted files and folders via the right-click menu in File Explorer."
-slug: /05-user-guide/sharing-files-right-click
-keywords: [fenixpyre, encryption, sharing, file-explorer]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Right-click sharing simplifies secure file collaboration, ensuring encrypted content is shared efficiently while maintaining data protection.

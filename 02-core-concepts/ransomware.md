@@ -1,10 +1,3 @@
----
-title: "What is Ransomware?"
-description: "An overview of ransomware threats and their implications for data security."
-slug: /02-core-concepts/ransomware
-keywords: [fenixpyre, ransomware, core concepts, encryption]
-last_updated: 2023-01-01
----
 
 ## Why It Matters
 Ransomware attacks can encrypt critical data, leading to data loss and financial demands, making proactive encryption essential.

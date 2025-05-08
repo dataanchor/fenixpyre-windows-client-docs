@@ -1,10 +1,3 @@
----
-title: "How to Encrypt Folders on Network Shares with FenixPyre"
-description: "Instructions for encrypting folders and files using the FenixPyre Server Agent on network shares."
-slug: /05-user-guide/encrypt-folders-on-network-shares
-keywords: [fenixpyre, encryption, network shares, server agent]
-last_updated: 2023-07-10
----
 
 ## Why it matters
 Encrypting folders on network shares protects shared resources from unauthorized access, maintaining data confidentiality in enterprise environments.

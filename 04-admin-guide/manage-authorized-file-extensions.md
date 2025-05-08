@@ -1,10 +1,3 @@
----
-title: "Managing Authorized File Extensions"
-description: "Guide for admins to add or remove file extensions that can be encrypted by FenixPyre."
-slug: /04-admin-guide/manage-authorized-file-extensions
-keywords: [fenixpyre, admin, file-extensions, encryption]
-last_updated: 2023-10-01
----
 
 ## Why It Matters
 Controlling authorized file extensions ensures only intended file types are encrypted, reducing risks from unauthorized formats.

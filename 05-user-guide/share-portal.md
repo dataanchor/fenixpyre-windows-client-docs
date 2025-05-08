@@ -1,10 +1,3 @@
----
-title: "How to Use FenixPyre Share Management Portal"
-description: "Guide to managing shared files and folders securely through the FenixPyre Share Portal for controlled access."
-slug: /05-user-guide/share-portal
-keywords: [fenixpyre, encryption, share-portal, file-sharing]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 The Share Portal allows secure sharing of encrypted files, with options for permissions and expiration, enhancing collaboration while maintaining data integrity.

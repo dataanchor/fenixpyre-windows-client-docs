@@ -1,10 +1,3 @@
----
-title: "What is AAA in Cybersecurity?"
-description: "Explanation of Authentication, Authorization, and Accounting (AAA) in the context of FenixPyre security."
-slug: /11-references-&-glossary/what-is-aaa
-keywords: [fenixpyre, aaa, cybersecurity, glossary]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 AAA protocols are essential for secure access control in FenixPyre, ensuring only authorized users can encrypt, decrypt, and manage data.

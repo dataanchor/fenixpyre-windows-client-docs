@@ -1,10 +1,3 @@
----
-title: "Installing the FenixPyre Windows Agent"
-description: "Step-by-step guide to downloading and installing the FenixPyre Agent for Windows."
-slug: /03-setup-&-installation/install-agent
-keywords: [fenixpyre, installation, windows-agent, setup]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 Proper installation of the FenixPyre Agent enables secure data encryption on endpoints and networks.

@@ -1,10 +1,3 @@
----
-title: "Resolving Folder is Admin-Controlled Notification in FenixPyre"
-description: "How to gain access to admin-controlled folders in FenixPyre."
-slug: /09-troubleshooting-&-faq/folder-admin-controlled
-keywords: [fenixpyre, notifications, admin control, access]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 This notification helps maintain access controls, ensuring only authorized users can view sensitive folders and preventing security breaches.

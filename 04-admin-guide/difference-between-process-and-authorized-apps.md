@@ -1,10 +1,3 @@
----
-title: "Difference Between FenixPyre by Process and Authorized Applications"
-description: "Understand how FenixPyre by Process and authorized applications differ in securing files and managing access."
-slug: /04-admin-guide/difference-between-process-and-authorized-apps
-keywords: [fenixpyre, process-security, authorized-apps]
-last_updated: 2023-10-01
----
 
 Why it matters: Knowing these differences helps admins choose the right method for securing non-office workflows and controlling file access effectively.
 

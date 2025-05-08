@@ -1,10 +1,3 @@
----
- title: "General Sales Collateral for FenixPyre"
- description: "Access key marketing materials to position FenixPyre effectively in sales discussions."
- slug: /11-references-and-glossary/sales-collateral
- keywords: [fenixpyre, sales, collateral, gtm]
- last_updated: 2023-10-01
----
 
 ## Why it matters
 These resources help partners and teams communicate FenixPyre's value, differentiating it in competitive markets.

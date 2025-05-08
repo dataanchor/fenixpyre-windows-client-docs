@@ -1,10 +1,3 @@
----
- title: "What is Symmetrical Key Encryption?"
- description: "Understand symmetrical key encryption and its role in FenixPyre's secure data protection strategy."
- slug: /02-core-concepts/symmetrical-key-encryption
- keywords: [fenixpyre, encryption, symmetrical-key]
- last_updated: 2023-10-01
----
 
 ## Why it matters
 Symmetrical key encryption enables efficient and secure data encryption, forming a core part of FenixPyre's protection against unauthorized access.

@@ -1,10 +1,3 @@
----
-title: "FenixPyre Android App Guide"
-description: "Learn how to download, sign in, and open encrypted files on the FenixPyre Android app for secure mobile access."
-slug: /05-user-guide/android-app
-keywords: [fenixpyre, android, encryption, mobile]
-last_updated: 2023-10-01
----
 
 Why it matters: Securely accessing and managing encrypted files on mobile devices ensures data protection and compliance while on the go.
 

@@ -1,10 +1,3 @@
----
-title: "What is Zero Trust?"
-description: "Understand the zero trust security model and its role in modern encryption practices, ensuring no implicit trust in any user or device."
-slug: /02-core-concepts/zero-trust
-keywords: [fenixpyre, zero-trust, encryption, security]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Zero trust enhances security by verifying every access request, reducing risks in an era where insider threats and external breaches are common.

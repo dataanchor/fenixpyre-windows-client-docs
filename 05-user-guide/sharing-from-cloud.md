@@ -1,10 +1,3 @@
----
-title: "Sharing Encrypted Data from Cloud Services"
-description: "Steps to securely share encrypted files from OneDrive/SharePoint using FenixPyre, ensuring data protection during collaboration."
-slug: /05-user-guide/sharing-from-cloud
-keywords: [fenixpyre, encryption, cloud sharing, user guide]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 Securely sharing encrypted data from cloud services protects sensitive information while enabling collaboration without compromising security.

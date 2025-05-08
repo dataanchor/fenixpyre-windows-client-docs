@@ -1,10 +1,3 @@
----
-title: "What is DIB (Defense Industrial Base)?"
-description: "An overview of the Defense Industrial Base and its role in national security, relevant to FenixPyre's encryption practices."
-slug: /11-references-&-glossary/dib
-keywords: [fenixpyre, encryption, DIB, glossary]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 Understanding DIB helps organizations in defense sectors implement robust encryption to protect critical infrastructure and data.

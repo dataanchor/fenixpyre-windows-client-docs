@@ -1,10 +1,3 @@
----
-title: "Installing Windows Redistributable for FenixPyre Agent"
-description: "Steps to install the required Microsoft Visual C++ Redistributable for running the FenixPyre Agent on Windows."
-slug: /03-setup-&-installation/install-windows-redistributable
-keywords: [fenixpyre, installation, windows, agent]
-last_updated: 2023-10-01
----
 
 ## Why It Matters
 Installing the Windows Redistributable ensures compatibility and smooth operation of the FenixPyre Agent for encryption tasks.

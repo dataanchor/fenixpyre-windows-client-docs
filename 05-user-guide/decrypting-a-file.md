@@ -1,10 +1,3 @@
----
-title: "Decrypting a File with FenixPyre"
-description: "Step-by-step guide to decrypt files securely using FenixPyre, ensuring data accessibility while maintaining compliance."
-slug: /05-user-guide/decrypting-a-file
-keywords: [fenixpyre, encryption, decryption, data-security]
-last_updated: 2023-07-09
----
 
 ## Why it matters
 Decrypting files with FenixPyre allows authorized users to access protected data quickly and securely, minimizing risks of data exposure in collaborative environments.

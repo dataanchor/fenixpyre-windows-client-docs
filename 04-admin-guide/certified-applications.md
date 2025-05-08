@@ -1,10 +1,3 @@
----
-title: "Certified Applications"
-description: "A list of applications certified by FenixPyre for secure handling of encrypted data, with instructions on enabling or disabling them."
-slug: /04-admin-guide/certified-applications
-keywords: [fenixpyre, encryption, certified applications, admin guide]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 Certified applications help maintain data security by preventing plain text leakage, ensuring that only trusted tools can access encrypted files.

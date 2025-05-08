@@ -1,10 +1,3 @@
----
-title: "Enabling FenixPyre Integration in Box"
-description: "Steps to add and configure FenixPyre with your Box account for seamless data protection."
-slug: /03-setup-&-installation/enable-box-integration
-keywords: [fenixpyre, box, integration, setup]
-last_updated: 2025-05-06
----
 
 ## Why it matters
 Integrating FenixPyre with Box enhances data encryption and access control, safeguarding files in cloud storage.

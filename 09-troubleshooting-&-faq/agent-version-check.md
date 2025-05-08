@@ -1,10 +1,3 @@
----
-title: "Find FenixPyre Agent Version Silently"
-description: "Use a PowerShell script to silently check the installed version of the FenixPyre Agent on user machines."
-slug: /09-troubleshooting-&-faq/agent-version-check
-keywords: [fenixpyre, agent, version-check, powershell]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Verifying the agent version ensures compatibility and helps apply updates for optimal security and performance.

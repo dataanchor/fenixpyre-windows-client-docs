@@ -1,10 +1,3 @@
----
-title: "Default Access Rules"
-description: "Understand and manage access rules in FenixPyre to control encrypted file access dynamically."
-slug: /02-core-concepts/access-rules
-keywords: [fenixpyre, encryption, access-rules, security]
-last_updated: 2023-10-01
----
 
 ## Why it Matters
 Access rules define conditions for accessing encrypted files, ensuring only authorized users comply with organizational policies.

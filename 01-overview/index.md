@@ -1,10 +1,3 @@
----
-title: "Welcome to FenixPyre"
-description: "An introduction to the FenixPyre partner community and essential resources for positioning, selling, and deploying the solution."
-slug: /01-overview/index
-keywords: [fenixpyre, encryption, devsecops, partners]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Partnering with FenixPyre ensures you have the tools and knowledge to protect sensitive data effectively, enhancing your ability to serve clients in a data-driven world.

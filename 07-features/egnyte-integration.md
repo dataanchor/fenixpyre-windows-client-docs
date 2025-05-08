@@ -1,10 +1,3 @@
----
-title: "FenixPyre Egnyte Integration and ARIA AI Assistant"
-description: "Details on FenixPyre's new app for Egnyte and the ARIA AI assistant for advanced analytics."
-slug: /07-features/egnyte-integration
-keywords: [fenixpyre, features, egnyte, ai-assistant]
-last_updated: 2023-10-01
----
 
 # Why it matters: FenixPyre's Egnyte integration and ARIA AI enhance security, performance, and insights for better data management.
 

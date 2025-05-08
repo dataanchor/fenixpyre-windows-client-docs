@@ -1,11 +1,3 @@
----
-title: "Opening a FenixPyre Shared Link from OneDrive/SharePoint"
-description: "Guide for recipients to securely open and access encrypted files shared via FenixPyre from OneDrive or SharePoint, ensuring data protection during collaboration."
-slug: /06-recipient-guide/opening-shared-link
-from-onedrive
-keywords: [fenixpyre, encryption, sharing, onedrive, sharepoint]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Securely opening shared encrypted links protects sensitive data from unauthorized access, maintaining compliance and trust in collaborative environments.

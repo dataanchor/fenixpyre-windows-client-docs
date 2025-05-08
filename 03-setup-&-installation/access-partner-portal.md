@@ -1,10 +1,3 @@
----
-title: "How to Access the FenixPyre Partner Portal"
-description: "Step-by-step guide to gaining access to the FenixPyre Partner Portal for active partners."
-slug: /03-setup-&-installation/access-partner-portal
-keywords: [fenixpyre, partner-portal, access]
-last_updated: 2023-10-01
----
 
 ## Why It Matters
 Accessing the FenixPyre Partner Portal enables partners to manage resources and collaborate securely.

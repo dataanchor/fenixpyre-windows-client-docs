@@ -1,10 +1,3 @@
----
-title: "Using FenixPyre in Airplane Mode"
-description: "How to access encrypted files offline with FenixPyre's airplane mode feature."
-slug: /05-user-guide/fenixpyre-airplane-mode
-keywords: [fenixpyre, encryption, offline, airplane-mode]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Airplane mode allows secure access to encrypted files without internet, ensuring productivity in offline scenarios.

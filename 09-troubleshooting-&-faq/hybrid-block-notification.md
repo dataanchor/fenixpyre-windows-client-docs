@@ -1,10 +1,3 @@
----
-title: "Handling Hybrid Block Notifications"
-description: "Understand and resolve hybrid block notifications when accessing protected and non-protected files in FenixPyre."
-slug: /09-troubleshooting-&-faq/hybrid-block-notification
-keywords: [fenixpyre, troubleshooting, hybrid-block]
-last_updated: 2023-10-01
----
 
 # Handling Hybrid Block Notifications
 

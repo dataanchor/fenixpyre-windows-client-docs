@@ -1,10 +1,3 @@
----
-title: "Deactivate and Activate a User"
-description: "Guide for admins on deactivating and reactivating users in FenixPyre to manage access and security effectively."
-slug: /04-admin-guide/deactivate-activate-user
-keywords: [fenixpyre, user-management, deactivate, activate]
-last_updated: 2025-05-06
----
 
 ## Why it matters
 Deactivating and activating users helps maintain secure access controls, preventing unauthorized entry while allowing quick reinstatement when needed.

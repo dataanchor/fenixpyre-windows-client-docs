@@ -1,10 +1,3 @@
----
-title: "Protecting Data in OneDrive and SharePoint"
-description: "Guide to integrating and securing data in OneDrive and SharePoint using FenixPyre for encrypted file management."
-slug: /05-user-guide/onedrive-sharepoint-integration
-keywords: [fenixpyre, onedrive, sharepoint, encryption]
-last_updated: 2025-05-06
----
 
 ## Why it matters
 Securing OneDrive and SharePoint data with FenixPyre protects sensitive information from breaches, ensuring compliance and data integrity.

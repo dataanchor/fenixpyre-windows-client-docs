@@ -1,10 +1,3 @@
----
-title: "View Access Logs"
-description: "Learn how to view access logs for encrypted files in FenixPyre."
-slug: /09-troubleshooting-&-faq/view-access-logs
-keywords: [fenixpyre, access-logs, troubleshooting]
-last_updated: 2023-10-01
----
 
 ## Why it matters
 Access logs help track and audit file interactions, aiding in troubleshooting and maintaining security compliance.

@@ -1,10 +1,3 @@
----
-title: "Configuring SSO with FenixPyre"
-description: "Video tutorial and steps for setting up SAML SSO in FenixPyre for secure access."
-slug: /03-setup-&-installation/configure-sso
-keywords: [fenixpyre, sso, saml, authentication]
-last_updated: 2023-07-09
----
 
 ## Why it matters
 Configuring SAML SSO streamlines user authentication in FenixPyre, enhancing security and user experience by integrating with existing identity providers.
