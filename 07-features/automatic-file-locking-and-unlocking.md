@@ -1,10 +1,7 @@
----
-title: "Automatic File Locking and Unlocking"
-description: "Understand how FenixPyre automates file locking for Office files to prevent conflicts and ensure data integrity."
-slug: /07-features/automatic-file-locking-and-unlocking
-keywords: [fenixpyre, encryption, file-locking]
-last_updated: 2023-10-01
----
+# Automatic File Locking and Unlocking
+
+Understand how FenixPyre automates file locking for Office files to prevent conflicts and ensure data integrity.
+
 
 # Why it matters
 

@@ -1,10 +1,7 @@
----
-title: "Configure On-Premises Active Directory Integration"
-description: "Step-by-step instructions for integrating on-premises Active Directory with FenixPyre for user authentication."
-slug: /04-admin-guide/configure-active-directory-integration
-keywords: [fenixpyre, active-directory, integration, admin]
-last_updated: 2023-10-01
----
+# Configure On-Premises Active Directory Integration
+
+Step-by-step instructions for integrating on-premises Active Directory with FenixPyre for user authentication.
+
 
 ## Why it Matters
 Integrating Active Directory streamlines user management and authentication, enhancing security and efficiency in FenixPyre environments.

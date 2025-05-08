@@ -1,10 +1,7 @@
----
-title: "How to Authenticate FenixPyre Integration in Box"
-description: "Step-by-step guide to set up and authenticate FenixPyre with Box for secure file management."
-slug: /03-setup-&-installation/authenticate-box-integration
-keywords: [fenixpyre, box integration, setup, authentication]
-last_updated: 2023-10-01
----
+# How to Authenticate FenixPyre Integration in Box
+
+Step-by-step guide to set up and authenticate FenixPyre with Box for secure file management.
+
 
 ## Why it matters
 Integrating FenixPyre with Box ensures encrypted file handling, protecting data during collaboration and storage.

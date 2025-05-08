@@ -1,10 +1,7 @@
----
-title: "Handling Save-As Block Notification in FenixPyre"
-description: "Learn how to manage the Save-As Block notification when attempting to save encrypted files in non-protected folders in FenixPyre."
-slug: /09-troubleshooting-&-faq/save-as-block-notification
-keywords: [fenixpyre, encryption, notifications, troubleshooting]
-last_updated: 2023-10-01
----
+# Handling Save-As Block Notification in FenixPyre
+
+Learn how to manage the Save-As Block notification when attempting to save encrypted files in non-protected folders in FenixPyre.
+
 
 ## Why it matters
 Understanding the Save-As Block notification prevents accidental exposure of encrypted files and ensures data security by maintaining separation between protected and non-protected areas.

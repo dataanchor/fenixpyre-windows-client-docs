@@ -1,10 +1,7 @@
----
-title: "How to Update FenixPyre Agent"
-description: "Guide to updating the FenixPyre Agent using the updater tool for seamless encryption management and security enhancements."
-slug: /03-setup-&-installation/update-agent
-keywords: [fenixpyre, encryption, agent-update, installation]
-last_updated: 2023-10-01
----
+# How to Update FenixPyre Agent
+
+Guide to updating the FenixPyre Agent using the updater tool for seamless encryption management and security enhancements.
+
 
 ## Why it matters
 Keeping the FenixPyre Agent updated ensures you have the latest security features and fixes, protecting your data from vulnerabilities.

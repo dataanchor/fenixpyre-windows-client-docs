@@ -1,10 +1,7 @@
----
-title: "Manage Auto-Encryption Folders"
-description: "Guide for administrators to manage auto-encryption folders in SharePoint via the FenixPyre Admin Dashboard."
-slug: /04-admin-guide/manage-auto-encryption-folder
-keywords: [fenixpyre, admin-guide, auto-encryption, sharepoint]
-last_updated: 2023-10-01
----
+# Manage Auto-Encryption Folders
+
+Guide for administrators to manage auto-encryption folders in SharePoint via the FenixPyre Admin Dashboard.
+
 
 ## Why it matters
 Auto-encryption ensures files in specified folders are automatically encrypted, simplifying data protection for administrators.

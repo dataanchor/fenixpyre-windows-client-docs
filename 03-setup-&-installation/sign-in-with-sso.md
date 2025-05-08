@@ -1,10 +1,7 @@
----
-title: "Sign In with SSO to FenixPyre Agent"
-description: "Guide to signing in using Single Sign-On (SSO) for FenixPyre Agent."
-slug: /03-setup-&-installation/sign-in-with-sso
-keywords: [fenixpyre, encryption, sso]
-last_updated: 2023-10-01
----
+# Sign In with SSO to FenixPyre Agent
+
+Guide to signing in using Single Sign-On (SSO) for FenixPyre Agent.
+
 
 ## Why it matters
 SSO sign-in streamlines authentication, enhancing security and user experience in FenixPyre.

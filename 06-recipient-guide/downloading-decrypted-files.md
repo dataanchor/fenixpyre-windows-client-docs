@@ -1,10 +1,7 @@
----
-title: "Downloading Decrypted Files"
-description: "Learn how end users can download decrypted files using FenixPyre's sharing features for secure access."
-slug: /06-recipient-guide/downloading-decrypted-files
-keywords: [fenixpyre, encryption, file-sharing, decryption]
-last_updated: 2023-09-01
----
+# Downloading Decrypted Files
+
+Learn how end users can download decrypted files using FenixPyre's sharing features for secure access.
+
 
 ## Why it matters
 Securely downloading decrypted files ensures that recipients can access shared content without compromising data protection, while maintaining control over sensitive information.

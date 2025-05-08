@@ -1,10 +1,7 @@
----
-title: "How to Re-Provision a User"
-description: "Guidance on re-provisioning users in FenixPyre for account management."
-slug: /04-admin-guide/re-provision-user
-keywords: [fenixpyre, user-management, provisioning]
-last_updated: 2023-10-01
----
+# How to Re-Provision a User
+
+Guidance on re-provisioning users in FenixPyre for account management.
+
 
 # Why it matters
 

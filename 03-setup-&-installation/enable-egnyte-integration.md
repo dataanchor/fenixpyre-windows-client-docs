@@ -1,10 +1,7 @@
----
- title: "How to Enable FenixPyre Integration in Egnyte"
- description: "Step-by-step guide to integrating FenixPyre with Egnyte for enhanced data encryption and management."
- slug: /03-setup-&-installation/enable-egnyte-integration
- keywords: [fenixpyre, integration, egnyte, setup]
- last_updated: 2023-10-01
----
+# How to Enable FenixPyre Integration in Egnyte
+
+Step-by-step guide to integrating FenixPyre with Egnyte for enhanced data encryption and management.
+
 
 ## Why it matters
 Integrating FenixPyre with Egnyte ensures your files are encrypted and protected within your cloud storage, providing seamless security without disrupting workflows.

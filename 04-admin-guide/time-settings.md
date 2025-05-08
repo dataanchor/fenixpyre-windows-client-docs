@@ -1,10 +1,7 @@
----
-title: "Time Settings in the Admin Dashboard"
-description: "Learn how to configure timing settings for access control and user roles in FenixPyre to enhance security and compliance."
-slug: /04-admin-guide/time-settings
-keywords: [fenixpyre, encryption, admin-dashboard, access-control]
-last_updated: 2023-10-01
----
+# Time Settings in the Admin Dashboard
+
+Learn how to configure timing settings for access control and user roles in FenixPyre to enhance security and compliance.
+
 
 ## Why it Matters
 Proper configuration of timing settings ensures real-time enforcement of access rules and user roles, preventing unauthorized access to encrypted files and maintaining data security.

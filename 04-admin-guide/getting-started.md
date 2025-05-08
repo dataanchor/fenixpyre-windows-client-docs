@@ -1,10 +1,7 @@
----
- title: "Getting Started as an Admin"
- description: "Step-by-step guide for administrators to set up FenixPyre, including SCIM integration."
- slug: /04-admin-guide/getting-started
- keywords: [fenixpyre, admin, setup, scim]
- last_updated: 2023-10-01
----
+# Getting Started as an Admin
+
+Step-by-step guide for administrators to set up FenixPyre, including SCIM integration.
+
 
 ## Why it matters
 Proper admin setup ensures secure user management and integration, safeguarding organizational data from the start.

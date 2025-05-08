@@ -1,10 +1,7 @@
----
- title: "What is Doxware?"
- description: "An overview of doxware, a ransomware variant that threatens to expose sensitive data, and how FenixPyre helps mitigate it."
- slug: /11-references-&-glossary/what-is-doxware
- keywords: [fenixpyre, doxware, ransomware, security]
- last_updated: 2023-10-01
----
+# What is Doxware?
+
+An overview of doxware, a ransomware variant that threatens to expose sensitive data, and how FenixPyre helps mitigate it.
+
 
 ## Why it matters
 Understanding doxware is crucial for protecting against data breaches and maintaining organizational reputation in an era of increasing cyber threats.

@@ -1,10 +1,7 @@
----
-title: "Encrypting a File with FenixPyre"
-description: "Step-by-step guide to encrypting files in your cloud storage using FenixPyre."
-slug: /05-user-guide/encrypt-file
-keywords: [fenixpyre, encryption, file-security]
-last_updated: 2023-10-01
----
+# Encrypting a File with FenixPyre
+
+Step-by-step guide to encrypting files in your cloud storage using FenixPyre.
+
 
 Encrypting files with FenixPyre safeguards your data against unauthorized access in cloud environments.
 

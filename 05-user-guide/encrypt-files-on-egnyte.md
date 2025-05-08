@@ -1,10 +1,7 @@
----
-title: "How to Encrypt Files on Egnyte with FenixPyre"
-description: "Step-by-step guide to encrypting files and folders on Egnyte using FenixPyre for enhanced data protection."
-slug: /05-user-guide/encrypt-files-on-egnyte
-keywords: [fenixpyre, encryption, egnyte, file protection]
-last_updated: 2023-07-10
----
+# How to Encrypt Files on Egnyte with FenixPyre
+
+Step-by-step guide to encrypting files and folders on Egnyte using FenixPyre for enhanced data protection.
+
 
 ## Why it matters
 Encrypting files on Egnyte with FenixPyre protects sensitive data from unauthorized access, ensuring compliance and security in collaborative environments.

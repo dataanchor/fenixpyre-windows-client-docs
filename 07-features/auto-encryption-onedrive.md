@@ -1,10 +1,7 @@
----
-title: "Auto-Encryption on OneDrive"
-description: "Overview and setup for automatic encryption of files in OneDrive and SharePoint."
-slug: /07-features/auto-encryption-onedrive
-keywords: [fenixpyre, auto-encryption, onedrive]
-last_updated: 2023-10-01
----
+# Auto-Encryption on OneDrive
+
+Overview and setup for automatic encryption of files in OneDrive and SharePoint.
+
 
 ## Why it Matters
 Auto-encryption protects files in OneDrive and SharePoint by automatically encrypting new and existing content, ensuring ongoing data security.

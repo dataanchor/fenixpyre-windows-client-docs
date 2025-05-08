@@ -1,10 +1,7 @@
----
-title: "Enabling Admin Users with Active Directory"
-description: "Steps for first-time admin users to log in to FenixPyre Cloud using Active Directory authentication."
-slug: /04-admin-guide/enabling-admin-users-active-directory
-keywords: [fenixpyre, encryption, admin, active-directory, authentication]
-last_updated: 2023-10-01
----
+# Enabling Admin Users with Active Directory
+
+Steps for first-time admin users to log in to FenixPyre Cloud using Active Directory authentication.
+
 
 ## Why it matters
 Secure Active Directory login streamlines admin access while maintaining robust authentication, reducing unauthorized entry risks.

@@ -1,10 +1,7 @@
----
-title: "Sign in with Email and OTP"
-description: "Learn how to securely sign in to FenixPyre using email and one-time passwords for enhanced authentication."
-slug: /03-setup-&-installation/sign-in-with-email-and-otp
-keywords: [fenixpyre, authentication, email, otp]
-last_updated: 2023-10-01
----
+# Sign in with Email and OTP
+
+Learn how to securely sign in to FenixPyre using email and one-time passwords for enhanced authentication.
+
 
 ## Why it matters
 Secure sign-in methods like email and OTP protect user accounts from unauthorized access, ensuring that only verified individuals can access FenixPyre features.

@@ -1,10 +1,7 @@
----
-title: "Screenshot and Copy-Paste Protection"
-description: "Enable screenshot and copy-paste protection in FenixPyre to secure sensitive data from unauthorized capture."
-slug: /07-features/screenshot-and-copy-paste-protection
-keywords: [fenixpyre, encryption, protection]
-last_updated: 2023-10-01
----
+# Screenshot and Copy-Paste Protection
+
+Enable screenshot and copy-paste protection in FenixPyre to secure sensitive data from unauthorized capture.
+
 
 # Why it matters
 

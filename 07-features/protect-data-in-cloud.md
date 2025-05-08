@@ -1,10 +1,7 @@
----
-title: "Protecting Data Managed in the Cloud"
-description: "FenixPyre's integrations for securing data in cloud storage solutions like OneDrive and Egnyte."
-slug: /07-features/protect-data-in-cloud
-keywords: [fenixpyre, encryption, cloud-protection]
-last_updated: 2023-10-01
----
+# Protecting Data Managed in the Cloud
+
+FenixPyre's integrations for securing data in cloud storage solutions like OneDrive and Egnyte.
+
 
 ## Why it Matters
 FenixPyre ensures data remains encrypted and controlled in the cloud, facilitating secure collaboration without exposing sensitive information.

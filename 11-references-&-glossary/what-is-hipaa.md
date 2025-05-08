@@ -1,10 +1,7 @@
----
-title: "What is HIPAA?"
-description: "Overview of the Health Insurance Portability and Accountability Act (HIPAA) and its implications for data protection in the US."
-slug: /11-references-&-glossary/what-is-hipaa
-keywords: [fenixpyre, encryption, hipaa, compliance, data-protection]
-last_updated: 2023-10-01
----
+# What is HIPAA?
+
+Overview of the Health Insurance Portability and Accountability Act (HIPAA) and its implications for data protection in the US.
+
 
 ## Why it matters
 HIPAA ensures the privacy and security of protected health information, helping organizations like those using FenixPyre maintain compliance and avoid penalties.

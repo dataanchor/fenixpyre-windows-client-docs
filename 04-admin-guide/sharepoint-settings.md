@@ -1,10 +1,7 @@
----
-title: "Configuring SharePoint Settings in FenixPyre Admin Dashboard"
-description: "Learn how to securely configure SharePoint integration in the FenixPyre Admin Dashboard for encrypted file management."
-slug: /04-admin-guide/sharepoint-settings
-keywords: [fenixpyre, encryption, sharepoint, admin]
-last_updated: 2023-10-01
----
+# Configuring SharePoint Settings in FenixPyre Admin Dashboard
+
+Learn how to securely configure SharePoint integration in the FenixPyre Admin Dashboard for encrypted file management.
+
 
 # Configuring SharePoint Settings in FenixPyre Admin Dashboard
 

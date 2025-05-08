@@ -1,10 +1,7 @@
----
-title: "File Open Notification"
-description: "Handle notifications when a file is open in another application while using FenixPyre features (≤160-char SEO summary)."
-slug: /05-user-guide/file-open-notification
-keywords: [fenixpyre, notifications, files]
-last_updated: 2023-10-01
----
+# File Open Notification
+
+Handle notifications when a file is open in another application while using FenixPyre features (≤160-char SEO summary).
+
 
 ## Why it Matters
 This notification prevents data conflicts and ensures secure encryption by alerting users when files are in use elsewhere, maintaining integrity during FenixPyre operations.

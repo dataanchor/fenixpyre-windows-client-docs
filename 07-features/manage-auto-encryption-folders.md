@@ -1,10 +1,7 @@
----
-title: "Managing Auto-Encryption Folders"
-description: "Guide to adding and managing auto-encryption folders in FenixPyre for automatic file protection."
-slug: /07-features/manage-auto-encryption-folders
-keywords: [fenixpyre, auto-encryption, folders]
-last_updated: 2023-10-01
----
+# Managing Auto-Encryption Folders
+
+Guide to adding and managing auto-encryption folders in FenixPyre for automatic file protection.
+
 
 # Managing Auto-Encryption Folders
 

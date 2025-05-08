@@ -1,10 +1,7 @@
----
-title: "What is PCI?"
-description: "Overview of Payment Card Industry (PCI) standards for secure credit card transactions."
-slug: /11-references-&-glossary/pci
-keywords: [fenixpyre, PCI, data security, compliance]
-last_updated: 2025-05-06
----
+# What is PCI?
+
+Overview of Payment Card Industry (PCI) standards for secure credit card transactions.
+
 
 ## Why it matters
 PCI standards protect cardholder data and reduce fraud risks, which is crucial for organizations handling payment information.

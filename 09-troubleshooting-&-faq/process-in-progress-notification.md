@@ -1,10 +1,7 @@
----
-title: "Handling 'Process in Progress' Notification in FenixPyre"
-description: "Learn how to manage the notification for ongoing encrypting or decrypting processes in FenixPyre."
-slug: /09-troubleshooting-&-faq/process-in-progress-notification
-keywords: [fenixpyre, troubleshooting, encryption-process]
-last_updated: 2023-10-01
----
+# Handling 'Process in Progress' Notification in FenixPyre
+
+Learn how to manage the notification for ongoing encrypting or decrypting processes in FenixPyre.
+
 
 ## Why it matters
 This notification helps prevent conflicts during large-scale encrypting or decrypting operations, ensuring data integrity and process completion.

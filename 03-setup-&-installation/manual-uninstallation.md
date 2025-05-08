@@ -1,10 +1,7 @@
----
-title: "Manual Uninstallation"
-description: "Steps to manually uninstall the FenixPyre Agent from Windows."
-slug: /03-setup-&-installation/manual-uninstallation
-keywords: [fenixpyre, uninstallation, agent]
-last_updated: 2023-10-01
----
+# Manual Uninstallation
+
+Steps to manually uninstall the FenixPyre Agent from Windows.
+
 
 # Why it matters
 

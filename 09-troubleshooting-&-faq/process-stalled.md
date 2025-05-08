@@ -1,10 +1,7 @@
----
-title: "Encryption/Decryption Process Stalled"
-description: "Steps to resolve issues when the FenixPyre encryption or decryption process is stalled."
-slug: /09-troubleshooting-&-faq/process-stalled
-keywords: [fenixpyre, encryption, troubleshooting, decryption]
-last_updated: 2023-10-01
----
+# Encryption/Decryption Process Stalled
+
+Steps to resolve issues when the FenixPyre encryption or decryption process is stalled.
+
 
 ## Why it matters
 Resolving stalled processes quickly maintains productivity and ensures data remains securely encrypted.

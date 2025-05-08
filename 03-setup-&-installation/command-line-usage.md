@@ -1,10 +1,7 @@
----
-title: "FenixPyreUpdater.exe Command Line Usage"
-description: "Advanced guide for using FenixPyreUpdater.exe via command line, intended for administrators managing updates programmatically."
-slug: /03-setup-&-installation/command-line-usage
-keywords: [fenixpyre, encryption, command-line, agent-update]
-last_updated: 2023-10-01
----
+# FenixPyreUpdater.exe Command Line Usage
+
+Advanced guide for using FenixPyreUpdater.exe via command line, intended for administrators managing updates programmatically.
+
 
 ## Why it matters
 Command-line usage enables automated, script-based updates, ideal for large-scale deployments to maintain consistent encryption security.

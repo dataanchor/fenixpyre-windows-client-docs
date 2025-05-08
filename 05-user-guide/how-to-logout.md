@@ -1,10 +1,7 @@
----
-title: "How to Log Out of FenixPyre"
-description: "Simple steps for users to securely log out of the FenixPyre dashboard or agent."
-slug: /05-user-guide/how-to-logout
-keywords: [fenixpyre, logout, user guide, security]
-last_updated: 2023-01-01
----
+# How to Log Out of FenixPyre
+
+Simple steps for users to securely log out of the FenixPyre dashboard or agent.
+
 
 ## Why It Matters
 Logging out protects your session from unauthorized access, especially on shared devices.

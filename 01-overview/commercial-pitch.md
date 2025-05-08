@@ -1,10 +1,7 @@
----
-title: "FenixPyre 30-Second Commercial"
-description: "A concise pitch highlighting the value of FenixPyre for data security."
-slug: /01-overview/commercial-pitch
-keywords: [fenixpyre, overview, security pitch]
-last_updated: 2023-01-01
----
+# FenixPyre 30-Second Commercial
+
+A concise pitch highlighting the value of FenixPyre for data security.
+
 
 ## Why It Matters
 This pitch effectively communicates FenixPyre's proactive data protection to stakeholders, aiding in adoption and awareness.

@@ -1,10 +1,7 @@
----
-title: "Approved Applications and Extensions"
-description: "Learn about the supported applications and file extensions for encrypting files in FenixPyre to ensure secure data handling during trials."
-slug: /05-user-guide/approved-applications-and-extensions
-keywords: [fenixpyre, encryption, applications, file-extensions]
-last_updated: 2023-10-01
----
+# Approved Applications and Extensions
+
+Learn about the supported applications and file extensions for encrypting files in FenixPyre to ensure secure data handling during trials.
+
 
 ## Why it matters
 Understanding approved applications and extensions helps maintain data security by limiting plain text access to trusted tools, reducing risks in FenixPyre trials.

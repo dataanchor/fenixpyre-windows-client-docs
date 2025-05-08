@@ -1,10 +1,7 @@
----
-title: "Adding a Protected Folder in FenixPyre"
-description: "Learn how to add Egnyte folders as protected folders in the FenixPyre Admin Dashboard to enhance data security for user roles."
-slug: /04-admin-guide/add-protected-folder
-keywords: [fenixpyre, protected folders, admin guide, encryption]
-last_updated: 2023-01-01
----
+# Adding a Protected Folder in FenixPyre
+
+Learn how to add Egnyte folders as protected folders in the FenixPyre Admin Dashboard to enhance data security for user roles.
+
 
 ## Why It Matters
 Protecting folders ensures sensitive data is encrypted and only accessible to authorized users, reducing the risk of data breaches in collaborative environments.

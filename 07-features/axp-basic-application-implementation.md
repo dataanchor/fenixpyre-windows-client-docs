@@ -1,10 +1,7 @@
----
-title: "FenixPyre by Process: Basic Application Implementation"
-description: "Learn how to implement FenixPyre by Process for securing files created by specific applications, ensuring encrypted protection for sensitive data."
-slug: /07-features/axp-basic-application-implementation
-keywords: [fenixpyre, encryption, process-based-security]
-last_updated: 2023-10-01
----
+# FenixPyre by Process: Basic Application Implementation
+
+Learn how to implement FenixPyre by Process for securing files created by specific applications, ensuring encrypted protection for sensitive data.
+
 
 Why it matters: Implementing FenixPyre by Process ensures that files created by designated applications are automatically encrypted, enhancing data security without disrupting workflows.
 

@@ -1,10 +1,7 @@
----
-title: "Desktop Experience with FenixPyre"
-description: "Guide to using FenixPyre on your desktop for encrypting and managing files securely."
-slug: /05-user-guide/desktop-experience
-keywords: [fenixpyre, encryption, desktop, user-guide]
-last_updated: 2023-10-01
----
+# Desktop Experience with FenixPyre
+
+Guide to using FenixPyre on your desktop for encrypting and managing files securely.
+
 
 ## Why it matters
 The desktop experience empowers users to encrypt files effortlessly, ensuring data security in everyday workflows.

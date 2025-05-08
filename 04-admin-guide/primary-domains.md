@@ -1,10 +1,7 @@
----
-title: "Primary Domains"
-description: "Learn how to manage email domains for secure access to FenixPyre admin dashboard and encrypted files (≤160-char SEO summary)."
-slug: /04-admin-guide/primary-domains
-keywords: [fenixpyre, domains, admin, encryption]
-last_updated: 2023-10-01
----
+# Primary Domains
+
+Learn how to manage email domains for secure access to FenixPyre admin dashboard and encrypted files (≤160-char SEO summary).
+
 
 ## Why it Matters
 Effective domain management ensures that only authorized users can access the FenixPyre admin dashboard and encrypted files, safeguarding sensitive data from unauthorized entry.

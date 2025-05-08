@@ -1,10 +1,7 @@
----
-title: "Video Tutorial for Encryption Provider"
-description: "Upcoming video tutorial for FenixPyre encryption features."
-slug: /03-setup-&-installation/video-tutorial
-keywords: [fenixpyre, encryption, tutorial]
-last_updated: 2023-10-01
----
+# Video Tutorial for Encryption Provider
+
+Upcoming video tutorial for FenixPyre encryption features.
+
 
 ## Why it matters
 Video tutorials provide visual guidance to enhance understanding of FenixPyre's encryption processes.

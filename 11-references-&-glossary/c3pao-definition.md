@@ -1,10 +1,7 @@
----
-title: "What is a C3PAO?"
-description: "Definition and role of a Cybersecurity Continuous Monitoring Third-Party Assessment Organization (C3PAO)."
-slug: /11-references-&-glossary/c3pao-definition
-keywords: [fenixpyre, c3pao, cybersecurity]
-last_updated: 2023-10-01
----
+# What is a C3PAO?
+
+Definition and role of a Cybersecurity Continuous Monitoring Third-Party Assessment Organization (C3PAO).
+
 
 ## Why it Matters
 Understanding C3PAOs helps organizations comply with federal cybersecurity standards through accredited assessments.

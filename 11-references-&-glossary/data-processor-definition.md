@@ -1,10 +1,7 @@
----
-title: "What is a Data Processor?"
-description: "Definition and role of a data processor in data protection regulations like GDPR."
-slug: /11-references-&-glossary/data-processor-definition
-keywords: [fenixpyre, data-processor, gdpr, privacy]
-last_updated: 2025-05-06
----
+# What is a Data Processor?
+
+Definition and role of a data processor in data protection regulations like GDPR.
+
 
 ## Why it matters
 Understanding data processors helps ensure compliance with privacy laws when using FenixPyre for data encryption.

@@ -1,10 +1,7 @@
----
-title: "What is a Data Controller?"
-description: "Definition and responsibilities of a data controller in data protection regulations."
-slug: /11-references-&-glossary/data-controller
-keywords: [fenixpyre, data-controller, gdpr]
-last_updated: 2023-10-01
----
+# What is a Data Controller?
+
+Definition and responsibilities of a data controller in data protection regulations.
+
 
 ## Why it Matters
 Understanding data controllers helps ensure compliance with privacy laws like GDPR, protecting personal data effectively.

@@ -1,10 +1,7 @@
----
-title: "Auto-Update Feature for FenixPyre Agent"
-description: "How the FenixPyre desktop agent automatically checks and applies software updates for seamless security."
-slug: /03-setup-&-installation/agent-auto-update
-keywords: [fenixpyre, auto-update, agent, installation]
-last_updated: 2023-10-01
----
+# Auto-Update Feature for FenixPyre Agent
+
+How the FenixPyre desktop agent automatically checks and applies software updates for seamless security.
+
 
 ## Why it Matters
 The auto-update feature keeps your FenixPyre agent up-to-date, ensuring the latest security enhancements and reducing manual maintenance efforts.

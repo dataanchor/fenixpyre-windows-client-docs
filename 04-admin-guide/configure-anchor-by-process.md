@@ -1,10 +1,7 @@
----
-title: "Configure FenixPyre by Process"
-description: "How to set up automated encryption for files created by specific applications."
-slug: /04-admin-guide/configure-anchor-by-process
-keywords: [fenixpyre, encryption, by-process]
-last_updated: 2023-10-01
----
+# Configure FenixPyre by Process
+
+How to set up automated encryption for files created by specific applications.
+
 
 ## Why it matters
 FenixPyre by Process automates encryption for designated applications, enhancing security for non-office workflows.

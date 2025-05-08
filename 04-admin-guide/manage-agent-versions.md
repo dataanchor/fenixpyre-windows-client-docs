@@ -1,10 +1,7 @@
----
-title: "Managing FenixPyre Agent Versions"
-description: "Guide for administrators to enable auto-updates and manage FenixPyre Agent versions."
-slug: /04-admin-guide/manage-agent-versions
-keywords: [fenixpyre, agent, updates, administration]
-last_updated: 2023-10-01
----
+# Managing FenixPyre Agent Versions
+
+Guide for administrators to enable auto-updates and manage FenixPyre Agent versions.
+
 
 ## Why it matters
 Proper version management ensures agents are up-to-date, maintaining security and compatibility without manual intervention.

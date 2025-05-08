@@ -1,10 +1,7 @@
----
-title: "Periodic Encryption Service"
-description: "Overview of FenixPyre's service for scheduled encryption tasks."
-slug: /07-features/periodic-encryption-service
-keywords: [fenixpyre, encryption, periodic-service]
-last_updated: 2023-10-01
----
+# Periodic Encryption Service
+
+Overview of FenixPyre's service for scheduled encryption tasks.
+
 
 ## Why it matters
 The Periodic Encryption Service ensures regular, automated encryption of data, maintaining ongoing security without manual effort.

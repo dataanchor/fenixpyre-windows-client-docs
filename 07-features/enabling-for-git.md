@@ -1,10 +1,7 @@
----
-title: "Enabling FenixPyre for GIT, Matlab, and Visual Studio"
-description: "Guide to integrating FenixPyre with version control and development tools for secure file handling."
-slug: /07-features/enabling-for-git
-keywords: [fenixpyre, git, matlab, visual-studio, integration]
-last_updated: 2023-10-01
----
+# Enabling FenixPyre for GIT, Matlab, and Visual Studio
+
+Guide to integrating FenixPyre with version control and development tools for secure file handling.
+
 
 ## Why It Matters
 Integrating FenixPyre with tools like GIT ensures that sensitive code and files are encrypted, protecting intellectual property during development and collaboration.

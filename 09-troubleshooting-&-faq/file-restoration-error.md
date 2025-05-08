@@ -1,10 +1,7 @@
----
-title: "Handling File Restoration Errors in FenixPyre"
-description: "Steps to resolve errors when attempting to restore non-encrypted files in FenixPyre."
-slug: /09-troubleshooting-&-faq/file-restoration-error
-keywords: [fenixpyre, file-restoration, error, troubleshooting]
-last_updated: 2023-10-01
----
+# Handling File Restoration Errors in FenixPyre
+
+Steps to resolve errors when attempting to restore non-encrypted files in FenixPyre.
+
 
 ## Why it Matters
 Properly handling restoration errors prevents data loss and ensures seamless access to encrypted files.

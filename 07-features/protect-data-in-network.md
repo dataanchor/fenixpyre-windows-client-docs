@@ -1,10 +1,7 @@
----
-title: "Protecting Data in Your Network"
-description: "How FenixPyre provides encryption and access control for data within your internal network."
-slug: /07-features/protect-data-in-network
-keywords: [fenixpyre, encryption, network-protection]
-last_updated: 2023-10-01
----
+# Protecting Data in Your Network
+
+How FenixPyre provides encryption and access control for data within your internal network.
+
 
 ## Why it Matters
 FenixPyre's encryption and multi-factor access protect your network data, even when shared outside your organization, with features like access revocation and logging.

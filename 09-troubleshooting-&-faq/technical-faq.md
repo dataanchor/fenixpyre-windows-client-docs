@@ -1,10 +1,7 @@
----
-title: "Technical FAQ"
-description: "Frequently asked questions about FenixPyre technical aspects."
-slug: /09-troubleshooting-&-faq/technical-faq
-keywords: [fenixpyre, FAQ, troubleshooting, technical issues]
-last_updated: 2023-10-01
----
+# Technical FAQ
+
+Frequently asked questions about FenixPyre technical aspects.
+
 
 ## Why it Matters
 Addressing common technical questions helps users resolve issues quickly, ensuring smooth operation of FenixPyre.

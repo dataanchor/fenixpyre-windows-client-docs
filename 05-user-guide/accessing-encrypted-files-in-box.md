@@ -1,10 +1,7 @@
----
-title: "Accessing Encrypted Files in Box with FenixPyre"
-description: "Step-by-step guide to opening encrypted files in Box using FenixPyre for secure collaboration."
-slug: /05-user-guide/accessing-encrypted-files-in-box
-keywords: [fenixpyre, box-integration, file-access]
-last_updated: 2023-10-01
----
+# Accessing Encrypted Files in Box with FenixPyre
+
+Step-by-step guide to opening encrypted files in Box using FenixPyre for secure collaboration.
+
 
 ## Why it matters
 Secure access to encrypted files in Box ensures that sensitive data remains protected while allowing authorized users to view or edit as needed.

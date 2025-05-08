@@ -1,10 +1,7 @@
----
-title: "Agent Leasing for Collaboration"
-description: "Overview of leasing the FenixPyre Agent for secure inter-organizational collaboration."
-slug: /07-features/agent-leasing
-keywords: [fenixpyre, agent-leasing, collaboration]
-last_updated: 2023-10-01
----
+# Agent Leasing for Collaboration
+
+Overview of leasing the FenixPyre Agent for secure inter-organizational collaboration.
+
 
 ## Why it Matters
 Agent leasing enables secure data sharing between organizations while maintaining full control, ensuring compliance and trust in collaborations.

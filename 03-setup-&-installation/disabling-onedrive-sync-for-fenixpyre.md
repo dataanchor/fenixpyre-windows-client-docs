@@ -1,10 +1,7 @@
----
-title: "Disabling OneDrive File Collaboration for FenixPyre"
-description: "Steps to disable automatic syncing in OneDrive to ensure proper FenixPyre encryption functionality."
-slug: /03-setup-&-installation/disabling-onedrive-sync
-keywords: [fenixpyre, encryption, onedrive, setup, installation]
-last_updated: 2023-10-01
----
+# Disabling OneDrive File Collaboration for FenixPyre
+
+Steps to disable automatic syncing in OneDrive to ensure proper FenixPyre encryption functionality.
+
 
 ## Why it matters
 Disabling OneDrive's automatic sync prevents conflicts with FenixPyre encryption, ensuring files are properly secured during setup.

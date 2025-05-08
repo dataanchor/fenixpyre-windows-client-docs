@@ -1,10 +1,7 @@
----
-title: "Choosing a Sign-in Method"
-description: "Select and configure sign-in methods for FenixPyre to enhance security and user experience."
-slug: /03-setup-&-installation/choosing-sign-in-method
-keywords: [fenixpyre, sign-in, sso, setup]
-last_updated: 2023-10-01
----
+# Choosing a Sign-in Method
+
+Select and configure sign-in methods for FenixPyre to enhance security and user experience.
+
 
 ## Why it matters
 The right sign-in method ensures secure and efficient access, balancing convenience with strong authentication.

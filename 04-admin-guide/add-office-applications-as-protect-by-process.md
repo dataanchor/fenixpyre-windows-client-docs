@@ -1,10 +1,7 @@
----
-title: "Add Office Applications as Protect by Process Applications"
-description: "Instructions for adding Office applications and Adobe Acrobat as Protect by Process apps in FenixPyre for enhanced security."
-slug: /04-admin-guide/add-office-applications-as-protect-by-process
-keywords: [fenixpyre, protect-by-process, office-apps, adobe]
-last_updated: 2025-05-06
----
+# Add Office Applications as Protect by Process Applications
+
+Instructions for adding Office applications and Adobe Acrobat as Protect by Process apps in FenixPyre for enhanced security.
+
 
 ## Why it matters
 Configuring Protect by Process applications ensures that sensitive files opened in Office apps are automatically encrypted, bolstering data protection.

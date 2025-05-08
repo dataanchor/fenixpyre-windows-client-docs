@@ -1,10 +1,7 @@
----
-title: "CMMC Experience with FenixPyre"
-description: "Guide for organizations with CMMC requirements to implement FenixPyre for data protection."
-slug: /08-use-cases/cmmc-guide
-keywords: [fenixpyre, cmmc, compliance, use-cases]
-last_updated: 2023-10-01
----
+# CMMC Experience with FenixPyre
+
+Guide for organizations with CMMC requirements to implement FenixPyre for data protection.
+
 
 FenixPyre helps meet CMMC standards by encrypting data and enforcing access controls, ensuring regulatory compliance.
 

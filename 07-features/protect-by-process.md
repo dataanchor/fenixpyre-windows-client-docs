@@ -1,10 +1,7 @@
----
-title: "Protect by Process Feature"
-description: "How to configure Protect by Process in FenixPyre to automate file encryption for specific applications."
-slug: /07-features/protect-by-process
-keywords: [fenixpyre, protect-by-process, automation, encryption]
-last_updated: 2023-10-01
----
+# Protect by Process Feature
+
+How to configure Protect by Process in FenixPyre to automate file encryption for specific applications.
+
 
 ## Why it Matters
 Protect by Process automates encryption for files created by designated applications, enhancing security in non-standard workflows.

@@ -1,10 +1,7 @@
----
-title: "Securely Sharing Data in FenixPyre"
-description: "Guide to the user experience for sharing encrypted data in FenixPyre, ensuring secure collaboration in the cloud."
-slug: /05-user-guide/share-data-tour
-keywords: [fenixpyre, encryption, sharing, user-guide]
-last_updated: 2023-10-01
----
+# Securely Sharing Data in FenixPyre
+
+Guide to the user experience for sharing encrypted data in FenixPyre, ensuring secure collaboration in the cloud.
+
 
 Secure sharing in FenixPyre protects sensitive data during collaboration, preventing unauthorized access and maintaining encryption integrity.
 

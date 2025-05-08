@@ -1,10 +1,7 @@
----
-title: "File Outside Protected Folder Notification"
-description: "Understand notifications for files moved outside protected folders in FenixPyre to maintain data security."
-slug: /05-user-guide/file-outside-protected-folder
-keywords: [fenixpyre, encryption, notifications]
-last_updated: 2023-10-01
----
+# File Outside Protected Folder Notification
+
+Understand notifications for files moved outside protected folders in FenixPyre to maintain data security.
+
 
 ## Why it matters
 Notifications for files outside protected folders help prevent unauthorized access and ensure encrypted files remain secure within designated areas.

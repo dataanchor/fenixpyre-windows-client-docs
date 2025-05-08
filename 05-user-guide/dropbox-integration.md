@@ -1,10 +1,7 @@
----
-title: "Integrating FenixPyre with Dropbox"
-description: "Steps to encrypt and secure data in Dropbox using FenixPyre."
-slug: /05-user-guide/dropbox-integration
-keywords: [fenixpyre, dropbox, integration, encryption]
-last_updated: 2023-10-01
----
+# Integrating FenixPyre with Dropbox
+
+Steps to encrypt and secure data in Dropbox using FenixPyre.
+
 
 ## Why it Matters
 Integrating FenixPyre with Dropbox ensures encrypted data sharing while maintaining control over sensitive information.

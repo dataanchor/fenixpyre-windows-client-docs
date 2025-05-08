@@ -1,10 +1,7 @@
----
-title: "What is ESR-CUI?"
-description: "Overview of Enhanced Security Requirements for Protecting Controlled Unclassified Information (ESR-CUI)."
-slug: /11-references-&-glossary/esr-cui
-keywords: [fenixpyre, encryption, ESR-CUI, compliance]
-last_updated: 2023-07-10
----
+# What is ESR-CUI?
+
+Overview of Enhanced Security Requirements for Protecting Controlled Unclassified Information (ESR-CUI).
+
 
 ## Why it matters
 ESR-CUI provides advanced cybersecurity standards to protect sensitive unclassified data, helping organizations meet federal requirements and bolster defenses.

@@ -1,10 +1,7 @@
----
-title: "Sharing Encrypted Folders and Files"
-description: "Guide to sharing FenixPyre-encrypted folders and files in OneDrive."
-slug: /05-user-guide/sharing-folders
-keywords: [fenixpyre, sharing, folders, files]
-last_updated: 2023-10-01
----
+# Sharing Encrypted Folders and Files
+
+Guide to sharing FenixPyre-encrypted folders and files in OneDrive.
+
 
 ## Why It Matters
 Secure sharing of encrypted files protects data while enabling collaboration.

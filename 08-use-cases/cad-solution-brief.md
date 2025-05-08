@@ -1,10 +1,7 @@
----
-title: "Solution Brief: CAD with FenixPyre"
-description: "Overview of how FenixPyre enhances security for CAD workflows."
-slug: /08-use-cases/cad-solution-brief
-keywords: [fenixpyre, use-cases, cad-security]
-last_updated: 2023-10-01
----
+# Solution Brief: CAD with FenixPyre
+
+Overview of how FenixPyre enhances security for CAD workflows.
+
 
 ## Why it matters
 FenixPyre provides robust encryption for CAD data, protecting intellectual property throughout its lifecycle.

@@ -1,10 +1,7 @@
----
-title: "FenixPyre for Healthcare"
-description: "Overview of how FenixPyre enhances data security in healthcare environments (under 160 characters)."
-slug: /08-use-cases/healthcare
-keywords: [fenixpyre, healthcare, encryption, data-security]
-last_updated: 2023-10-01
----
+# FenixPyre for Healthcare
+
+Overview of how FenixPyre enhances data security in healthcare environments (under 160 characters).
+
 
 Why it matters: FenixPyre provides robust encryption for healthcare data, ensuring compliance with regulations like HIPAA and protecting sensitive patient information from breaches.
 

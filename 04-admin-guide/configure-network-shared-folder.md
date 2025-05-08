@@ -1,10 +1,7 @@
----
-title: "Configuring Network Shared Folders as Protected in FenixPyre"
-description: "Steps to set up and manage protected network folders for secure data access."
-slug: /04-admin-guide/configure-network-shared-folder
-keywords: [fenixpyre, protected-folders, network, admin]
-last_updated: 2023-10-01
----
+# Configuring Network Shared Folders as Protected in FenixPyre
+
+Steps to set up and manage protected network folders for secure data access.
+
 
 ## Why it matters
 Protected folders ensure files are only accessible in secure locations, reducing data exposure risks.

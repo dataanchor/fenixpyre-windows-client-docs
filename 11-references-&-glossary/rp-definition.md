@@ -1,10 +1,7 @@
----
-title: "What Is a Registered Provider (RP)?"
-description: "Definition and requirements for a Registered Provider in cybersecurity services."
-slug: /11-references-&-glossary/rp-definition
-keywords: [fenixpyre, registered-provider, cybersecurity]
-last_updated: 2023-10-01
----
+# What Is a Registered Provider (RP)?
+
+Definition and requirements for a Registered Provider in cybersecurity services.
+
 
 ## Why It Matters
 Understanding Registered Providers ensures compliance with cybersecurity standards.

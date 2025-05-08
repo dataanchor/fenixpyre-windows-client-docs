@@ -1,10 +1,7 @@
----
-title: "Downloading Shared Encrypted Content from OneDrive/SharePoint"
-description: "Step-by-step guide to securely download and decrypt shared FenixPyre content from OneDrive or SharePoint, ensuring data protection during collaboration."
-slug: /05-user-guide/download-shared-content-from-onedrive
-keywords: [fenixpyre, encryption, sharing, onedrive, sharepoint]
-last_updated: 2023-10-01
----
+# Downloading Shared Encrypted Content from OneDrive/SharePoint
+
+Step-by-step guide to securely download and decrypt shared FenixPyre content from OneDrive or SharePoint, ensuring data protection during collaboration.
+
 
 ## Why It Matters
 Securely downloading and decrypting shared files protects sensitive data when collaborating with external parties, preventing unauthorized access.

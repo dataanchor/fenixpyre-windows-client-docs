@@ -1,10 +1,7 @@
----
-title: "File Access Denied Notification"
-description: "Understand and resolve FenixPyre's 'File Access Denied' notifications to ensure compliance with access rules."
-slug: /09-troubleshooting-&-faq/file-access-denied
-keywords: [fenixpyre, troubleshooting, access-denied, rules]
-last_updated: 2023-10-01
----
+# File Access Denied Notification
+
+Understand and resolve FenixPyre's 'File Access Denied' notifications to ensure compliance with access rules.
+
 
 ## Why it matters
 The 'File Access Denied' notification protects sensitive data by enforcing access rules, helping prevent unauthorized access in FenixPyre.

@@ -1,10 +1,7 @@
----
-title: "Managing Ignored Folders"
-description: "Guide for admins to manage folders that are not monitored by FenixPyre for encryption."
-slug: /04-admin-guide/managing-ignored-folders
-keywords: [fenixpyre, encryption, admin-guide, ignored-folders]
-last_updated: 2023-09-01
----
+# Managing Ignored Folders
+
+Guide for admins to manage folders that are not monitored by FenixPyre for encryption.
+
 
 ## Why it matters
 Ignored folders prevent unintended encryption of files in system directories, ensuring application compatibility and smooth operations.

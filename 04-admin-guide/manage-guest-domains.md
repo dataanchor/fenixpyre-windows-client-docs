@@ -1,10 +1,7 @@
----
-title: "Managing Guest Domains"
-description: "Learn how to add, delete, or edit guest domains in FenixPyre to control external access to encrypted files."
-slug: /04-admin-guide/manage-guest-domains
-keywords: [fenixpyre, admin, guest-domains, sharing, security]
-last_updated: 2023-10-01
----
+# Managing Guest Domains
+
+Learn how to add, delete, or edit guest domains in FenixPyre to control external access to encrypted files.
+
 
 ## Why It Matters
 Guest domains allow controlled sharing of encrypted files with external users, enhancing collaboration while minimizing security risks.

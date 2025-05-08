@@ -1,10 +1,7 @@
----
-title: "Source Code Protection with FenixPyre"
-description: "How FenixPyre secures source code from repository to endpoint."
-slug: /07-features/source-code-protection
-keywords: [fenixpyre, features, source-code]
-last_updated: 2023-10-01
----
+# Source Code Protection with FenixPyre
+
+How FenixPyre secures source code from repository to endpoint.
+
 
 ## Why it matters
 Protecting source code with FenixPyre ensures persistent encryption at rest and in use, maintaining security without impacting development tools.

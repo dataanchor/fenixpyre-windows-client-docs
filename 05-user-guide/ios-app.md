@@ -1,10 +1,7 @@
----
-title: "FenixPyre iOS App Guide"
-description: "Step-by-step instructions for downloading, signing in, and opening encrypted files on the iOS app."
-slug: /05-user-guide/ios-app
-keywords: [fenixpyre, ios, encryption, mobile]
-last_updated: 2023-10-01
----
+# FenixPyre iOS App Guide
+
+Step-by-step instructions for downloading, signing in, and opening encrypted files on the iOS app.
+
 
 Why it matters: The FenixPyre iOS app allows secure mobile access to encrypted files, ensuring data protection on Apple devices.
 

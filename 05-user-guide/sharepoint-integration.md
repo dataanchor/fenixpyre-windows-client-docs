@@ -1,10 +1,7 @@
----
-title: "SharePoint Integration in FenixPyre Admin Dashboard"
-description: "Learn how to manage SharePoint integration settings in the FenixPyre Admin Dashboard for secure file sharing."
-slug: /05-user-guide/sharepoint-integration
-keywords: [fenixpyre, sharepoint, integration, encryption]
-last_updated: 2023-10-01
----
+# SharePoint Integration in FenixPyre Admin Dashboard
+
+Learn how to manage SharePoint integration settings in the FenixPyre Admin Dashboard for secure file sharing.
+
 
 ## Why it matters
 Effective SharePoint integration ensures secure file sharing and access control, protecting sensitive data from unauthorized exposure.

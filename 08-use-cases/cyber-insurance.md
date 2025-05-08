@@ -1,10 +1,7 @@
----
- title: "FenixPyre and Cyber Insurance"
- description: "Discover how FenixPyre supports cyber insurance requirements for enhanced data security."
- slug: /08-use-cases/cyber-insurance
- keywords: [fenixpyre, cyber-insurance, security]
- last_updated: 2023-10-01
----
+# FenixPyre and Cyber Insurance
+
+Discover how FenixPyre supports cyber insurance requirements for enhanced data security.
+
 
 ## Why it matters
 Integrating FenixPyre with cyber insurance strategies reduces risks and helps meet compliance standards for better policy terms.

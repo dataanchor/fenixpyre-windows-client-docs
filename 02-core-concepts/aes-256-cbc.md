@@ -1,10 +1,7 @@
----
-title: "What is AES-256-CBC?"
-description: "An overview of AES-256-CBC encryption, a key component of FenixPyre's security model for protecting sensitive data."
-slug: /02-core-concepts/aes-256-cbc
-keywords: [fenixpyre, encryption, aes-256-cbc, security]
-last_updated: 2023-10-01
----
+# What is AES-256-CBC?
+
+An overview of AES-256-CBC encryption, a key component of FenixPyre's security model for protecting sensitive data.
+
 
 ## Why it matters
 AES-256-CBC provides robust symmetric encryption for FenixPyre, ensuring data confidentiality and integrity against unauthorized access.

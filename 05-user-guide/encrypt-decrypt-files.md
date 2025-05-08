@@ -1,10 +1,7 @@
----
-title: "Encrypt and Decrypt Files in OneDrive"
-description: "Guide to encrypting and decrypting files in OneDrive using FenixPyre."
-slug: /05-user-guide/encrypt-decrypt-files
-keywords: [fenixpyre, encryption, onedrive, user-guide]
-last_updated: 2023-10-01
----
+# Encrypt and Decrypt Files in OneDrive
+
+Guide to encrypting and decrypting files in OneDrive using FenixPyre.
+
 
 ## Why it Matters
 Encrypting files protects sensitive data, while decryption allows authorized access when needed.

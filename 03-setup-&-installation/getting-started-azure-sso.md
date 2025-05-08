@@ -1,10 +1,7 @@
----
-title: "Getting Started with Azure SSO"
-description: "Set up single sign-on with Azure for secure access to FenixPyre."
-slug: /03-setup-&-installation/getting-started-azure-sso
-keywords: [fenixpyre, azure, sso, setup]
-last_updated: 2023-10-01
----
+# Getting Started with Azure SSO
+
+Set up single sign-on with Azure for secure access to FenixPyre.
+
 
 ## Why it matters
 Integrating Azure SSO ensures seamless and secure authentication, reducing risks and improving efficiency for FenixPyre users.

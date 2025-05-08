@@ -1,10 +1,7 @@
----
-title: "Automatic Encryption Service"
-description: "How FenixPyre's automatic encryption service secures files added to protected folders."
-slug: /07-features/automatic-encryption
-keywords: [fenixpyre, encryption, automatic-encryption]
-last_updated: 2023-10-01
----
+# Automatic Encryption Service
+
+How FenixPyre's automatic encryption service secures files added to protected folders.
+
 
 ## Why it matters
 Automatic encryption protects files in real-time, reducing the risk of data exposure when files are created or added to protected folders.

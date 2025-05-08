@@ -1,10 +1,7 @@
----
- title: "How to Access Encrypted Files in the Web Browser"
- description: "Step-by-step instructions for opening and managing encrypted files directly in your browser using FenixPyre."
- slug: /05-user-guide/access-anchored-files-web
- keywords: [fenixpyre, encryption, web-access, files]
- last_updated: 2023-10-01
----
+# How to Access Encrypted Files in the Web Browser
+
+Step-by-step instructions for opening and managing encrypted files directly in your browser using FenixPyre.
+
 
 ## Why it matters
 Accessing encrypted files via the web ensures secure, convenient collaboration without compromising data protection, especially when integrating with cloud storage platforms.

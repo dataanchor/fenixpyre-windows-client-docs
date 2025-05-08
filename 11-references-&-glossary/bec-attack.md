@@ -1,10 +1,7 @@
----
-title: "What is a BEC Attack?"
-description: "Understand Business Email Compromise (BEC) attacks and how to mitigate them using FenixPyre's security features."
-slug: /11-references-&-glossary/bec-attack
-keywords: [fenixpyre, BEC, cyber attack, email security]
-last_updated: 2025-05-06
----
+# What is a BEC Attack?
+
+Understand Business Email Compromise (BEC) attacks and how to mitigate them using FenixPyre's security features.
+
 
 ## Why it matters
 BEC attacks exploit email systems to steal sensitive information or funds, making it essential for organizations to implement strong protective measures like encryption and user education.

@@ -1,10 +1,7 @@
----
- title: "Decrypting Files"
- description: "Step-by-step guide to decrypting files using FenixPyre on Egnyte drives."
- slug: /05-user-guide/decrypting-files
- keywords: [fenixpyre, decryption, egnyte, user-guide]
- last_updated: 2023-10-01
----
+# Decrypting Files
+
+Step-by-step guide to decrypting files using FenixPyre on Egnyte drives.
+
 
 # Decrypting Files
 

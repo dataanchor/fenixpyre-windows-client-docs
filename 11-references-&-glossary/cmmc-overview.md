@@ -1,10 +1,7 @@
----
-title: "What is CMMC?"
-description: "Explanation of the Cybersecurity Maturity Model Certification and its relevance to FenixPyre."
-slug: /11-references-&-glossary/cmmc-overview
-keywords: [fenixpyre, CMMC, cybersecurity, compliance]
-last_updated: 2023-10-01
----
+# What is CMMC?
+
+Explanation of the Cybersecurity Maturity Model Certification and its relevance to FenixPyre.
+
 
 ## Why it Matters
 CMMC helps organizations protect sensitive data, aligning with FenixPyre's encryption capabilities to meet DoD requirements.

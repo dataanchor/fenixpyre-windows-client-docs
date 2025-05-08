@@ -1,10 +1,7 @@
----
-title: "Getting Started with FenixPyre Share Management Portal"
-description: "Learn to use the FenixPyre portal for sharing and managing encrypted files securely."
-slug: /05-user-guide/share-management-portal
-keywords: [fenixpyre, sharing, portal, user-guide]
-last_updated: 2023-10-01
----
+# Getting Started with FenixPyre Share Management Portal
+
+Learn to use the FenixPyre portal for sharing and managing encrypted files securely.
+
 
 ## Why It Matters
 The FenixPyre Share Management Portal simplifies secure file sharing, ensuring encrypted data is shared efficiently while maintaining access controls.

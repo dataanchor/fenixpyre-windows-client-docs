@@ -1,10 +1,7 @@
----
-title: "Encrypting and Decrypting Files with FenixPyre and Egnyte"
-description: "Guide to encrypting files in Egnyte using FenixPyre for enhanced data protection."
-slug: /05-user-guide/encrypting-files-with-egnyte
-keywords: [fenixpyre, encryption, egnyte, files]
-last_updated: 2023-10-01
----
+# Encrypting and Decrypting Files with FenixPyre and Egnyte
+
+Guide to encrypting files in Egnyte using FenixPyre for enhanced data protection.
+
 
 ## Why It Matters
 

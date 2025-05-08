@@ -1,10 +1,7 @@
----
-title: "Integrating FenixPyre with Box"
-description: "Overview of creating and using the FenixPyre app in Box for enhanced security and collaboration."
-slug: /features/box-integration
-keywords: [fenixpyre, box-integration, collaboration, security]
-last_updated: 2023-10-01
----
+# Integrating FenixPyre with Box
+
+Overview of creating and using the FenixPyre app in Box for enhanced security and collaboration.
+
 
 ## Why it Matters
 Integrating FenixPyre with Box enables secure, real-time collaboration on encrypted files, supporting larger files and granular controls to protect sensitive data.

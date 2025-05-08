@@ -1,10 +1,7 @@
----
-title: "Sharing Encrypted Files via Outlook"
-description: "Securely share encrypted files through Outlook with options for links or attachments."
-slug: /05-user-guide/sharing-files-through-outlook
-keywords: [fenixpyre, outlook, sharing, encryption]
-last_updated: 2023-10-01
----
+# Sharing Encrypted Files via Outlook
+
+Securely share encrypted files through Outlook with options for links or attachments.
+
 
 Why it matters: Sharing files via Outlook with encryption maintains data security during collaboration.
 

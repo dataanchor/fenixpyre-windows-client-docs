@@ -1,10 +1,7 @@
----
-title: "Sign In to Admin Dashboard with Okta"
-description: "Securely sign in to the FenixPyre Admin Dashboard using Okta for streamlined single sign-on."
-slug: /03-setup-&-installation/sign-in-admin-dashboard-with-okta
-keywords: [fenixpyre, sso, okta, sign-in]
-last_updated: 2023-10-01
----
+# Sign In to Admin Dashboard with Okta
+
+Securely sign in to the FenixPyre Admin Dashboard using Okta for streamlined single sign-on.
+
 
 ## Why it matters
 SSO integration with Okta simplifies authentication, enhancing security and user experience when accessing the FenixPyre Admin Dashboard.

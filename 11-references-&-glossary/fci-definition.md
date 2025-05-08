@@ -1,10 +1,7 @@
----
-title: "What is FCI?"
-description: "Definition and context of For Official Use Only Controlled Information (FCI) in data security."
-slug: /11-references-glossary/fci-definition
-keywords: [fenixpyre, fci, glossary]
-last_updated: 2023-10-01
----
+# What is FCI?
+
+Definition and context of For Official Use Only Controlled Information (FCI) in data security.
+
 
 Why it matters: FCI awareness ensures proper handling of sensitive, unclassified information, reducing risks of cyber attacks and compliance issues.
 

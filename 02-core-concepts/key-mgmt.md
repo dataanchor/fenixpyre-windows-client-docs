@@ -1,10 +1,7 @@
----
-title: "Pre-requisites for Creating and Setting Up Master Encryption Key"
-description: "Essential steps and requirements for managing master keys in FenixPyre."
-slug: /02-core-concepts/key-mgmt
-keywords: [fenixpyre, encryption, key-management]
-last_updated: 2023-10-01
----
+# Pre-requisites for Creating and Setting Up Master Encryption Key
+
+Essential steps and requirements for managing master keys in FenixPyre.
+
 
 ## Why it matters
 A properly set up master encryption key is crucial for securing data and ensuring key management best practices in FenixPyre.

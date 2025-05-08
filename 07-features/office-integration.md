@@ -1,10 +1,7 @@
----
-title: "Integrating FenixPyre with Office 365 Online Editors"
-description: "How to enable and manage Office 365 integration for seamless editing of encrypted files (under 160 characters)."
-slug: /07-features/office-integration
-keywords: [fenixpyre, office-365, integration, encryption]
-last_updated: 2023-10-01
----
+# Integrating FenixPyre with Office 365 Online Editors
+
+How to enable and manage Office 365 integration for seamless editing of encrypted files (under 160 characters).
+
 
 Why it matters: Integrating FenixPyre with Office 365 allows secure editing of encrypted documents, maintaining productivity while upholding data protection standards.
 

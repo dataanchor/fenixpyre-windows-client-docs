@@ -1,10 +1,7 @@
----
-title: "FenixPyre Browser Extension"
-description: "Overview of the FenixPyre browser extension for seamless encryption and decryption in web environments."
-slug: /07-features/browser-extension
-keywords: [fenixpyre, browser-extension, encryption]
-last_updated: 2023-10-01
----
+# FenixPyre Browser Extension
+
+Overview of the FenixPyre browser extension for seamless encryption and decryption in web environments.
+
 
 ## Why it Matters
 The FenixPyre browser extension simplifies encrypting and decrypting files directly in your browser, enhancing security for web-based workflows.

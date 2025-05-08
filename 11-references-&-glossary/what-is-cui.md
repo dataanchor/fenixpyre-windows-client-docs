@@ -1,10 +1,7 @@
----
-title: "What is CUI?"
-description: "Explanation of Controlled Unclassified Information (CUI) and its importance in data security."
-slug: /11-references-&-glossary/what-is-cui
-keywords: [fenixpyre, encryption, cui, data-protection, compliance]
-last_updated: 2023-10-01
----
+# What is CUI?
+
+Explanation of Controlled Unclassified Information (CUI) and its importance in data security.
+
 
 ## Why it matters
 Understanding CUI helps organizations protect sensitive unclassified data from cyber threats, aligning with FenixPyre's encryption capabilities.

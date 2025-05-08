@@ -1,10 +1,7 @@
----
-title: "How to Enable Auto-Encryption for Folders in OneDrive"
-description: "Step-by-step instructions for enabling auto-encryption on OneDrive folders using FenixPyre."
-slug: /05-user-guide/enable-auto-encryption-onedrive
-keywords: [fenixpyre, encryption, onedrive, user-guide]
-last_updated: 2023-10-01
----
+# How to Enable Auto-Encryption for Folders in OneDrive
+
+Step-by-step instructions for enabling auto-encryption on OneDrive folders using FenixPyre.
+
 
 ## Why it matters
 Auto-encryption protects files in OneDrive by automatically encrypting them, ensuring data security during sharing and collaboration.

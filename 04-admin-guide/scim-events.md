@@ -1,10 +1,7 @@
----
-title: "What SCIM Events Are We Listening To?"
-description: "Learn about the SCIM events monitored by FenixPyre for efficient user management and synchronization."
-slug: /04-admin-guide/scim-events
-keywords: [fenixpyre, scim, user-management]
-last_updated: 2023-10-01
----
+# What SCIM Events Are We Listening To?
+
+Learn about the SCIM events monitored by FenixPyre for efficient user management and synchronization.
+
 
 ## Why It Matters
 Understanding SCIM events helps ensure secure and automated user provisioning in FenixPyre.

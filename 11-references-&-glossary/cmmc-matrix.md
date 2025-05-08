@@ -1,10 +1,7 @@
----
- title: "FenixPyre CMMC Share Responsibility Matrix"
- description: "Download the matrix and controls mapping for FenixPyre compliance with CMMC standards."
- slug: /11-references-&-glossary/cmmc-matrix
- keywords: [fenixpyre, cmmc, compliance, matrix]
- last_updated: 2023-10-01
----
+# FenixPyre CMMC Share Responsibility Matrix
+
+Download the matrix and controls mapping for FenixPyre compliance with CMMC standards.
+
 
 # FenixPyre CMMC Share Responsibility Matrix
 

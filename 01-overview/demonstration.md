@@ -1,10 +1,7 @@
----
-title: "FenixPyre Demonstration"
-description: "Access demonstrations and videos to understand FenixPyre's features and benefits (under 160 characters)."
-slug: /01-overview/demonstration
-keywords: [fenixpyre, demonstration, video, overview]
-last_updated: 2023-10-01
----
+# FenixPyre Demonstration
+
+Access demonstrations and videos to understand FenixPyre's features and benefits (under 160 characters).
+
 
 Why it matters: Demonstrations help users quickly grasp FenixPyre's capabilities, accelerating adoption and secure data practices.
 

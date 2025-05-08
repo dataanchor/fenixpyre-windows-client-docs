@@ -1,10 +1,7 @@
----
-title: "Securing and Sharing Files on OneDrive/SharePoint"
-description: "Guide to encrypting and sharing files on OneDrive/SharePoint using FenixPyre for enhanced data security."
-slug: /05-user-guide/securing-files-on-onedrive
-keywords: [fenixpyre, onedrive, sharepoint, encryption, sharing]
-last_updated: 2023-10-01
----
+# Securing and Sharing Files on OneDrive/SharePoint
+
+Guide to encrypting and sharing files on OneDrive/SharePoint using FenixPyre for enhanced data security.
+
 
 Why it matters: Encrypting files on OneDrive/SharePoint protects sensitive data from unauthorized access while enabling secure collaboration.
 

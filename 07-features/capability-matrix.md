@@ -1,10 +1,7 @@
----
-title: "FenixPyre Capability Matrix"
-description: "Detailed matrix of FenixPyre's encryption capabilities across environments."
-slug: /07-features/capability-matrix
-keywords: [fenixpyre, capabilities, encryption, features]
-last_updated: 2023-10-01
----
+# FenixPyre Capability Matrix
+
+Detailed matrix of FenixPyre's encryption capabilities across environments.
+
 
 ## Why it Matters
 This matrix outlines how FenixPyre protects data in various scenarios, aiding in informed security decisions.

@@ -1,10 +1,7 @@
----
-title: "Adding Protected Folders in DFS Environments"
-description: "Guide to protecting folders in Distributed File System (DFS) using FenixPyre for enhanced network security."
-slug: /04-admin-guide/add-protected-folders-in-dfs-environment
-keywords: [fenixpyre, dfs, protected-folders]
-last_updated: 2023-10-01
----
+# Adding Protected Folders in DFS Environments
+
+Guide to protecting folders in Distributed File System (DFS) using FenixPyre for enhanced network security.
+
 
 ## Why it matters
 Protecting folders in DFS ensures data security across networked environments, preventing unauthorized access via UNC or mapped drives.

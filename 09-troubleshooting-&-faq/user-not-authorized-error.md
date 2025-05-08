@@ -1,10 +1,7 @@
----
-title: "User Not Authorized Error in OneDrive/SharePoint"
-description: "Troubleshoot the 'User not authorized' error in OneDrive or SharePoint integrations with FenixPyre."
-slug: /09-troubleshooting-&-faq/user-not-authorized-error
-keywords: [fenixpyre, troubleshooting, one-drive, sharepoint, error]
-last_updated: 2023-10-01
----
+# User Not Authorized Error in OneDrive/SharePoint
+
+Troubleshoot the 'User not authorized' error in OneDrive or SharePoint integrations with FenixPyre.
+
 
 ## Why it matters
 Resolving authorization errors quickly prevents disruptions in file access, ensuring secure and seamless encryption workflows.

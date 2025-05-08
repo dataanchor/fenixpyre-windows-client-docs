@@ -1,10 +1,7 @@
----
- title: "Troubleshooting: Failed to Attach Files to Email"
- description: "Understand why files fail to attach to emails in FenixPyre and how to resolve common issues."
- slug: /09-troubleshooting-&-faq/failed-attach-files-email
- keywords: [fenixpyre, troubleshooting, email, files]
- last_updated: 2023-10-01
----
+# Troubleshooting: Failed to Attach Files to Email
+
+Understand why files fail to attach to emails in FenixPyre and how to resolve common issues.
+
 
 ## Why it matters
 Resolving issues with attaching encrypted files to emails prevents disruptions and ensures secure communication.

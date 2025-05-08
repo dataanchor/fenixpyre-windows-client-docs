@@ -1,10 +1,7 @@
----
-title: "Sign-in to SharePoint with Okta"
-description: "Integrate Okta with SharePoint for secure FenixPyre encryption and access control (under 160 characters)."
-slug: /05-user-guide/sign-in-sharepoint-with-okta
-keywords: [fenixpyre, sharepoint, okta, encryption]
-last_updated: 2023-10-01
----
+# Sign-in to SharePoint with Okta
+
+Integrate Okta with SharePoint for secure FenixPyre encryption and access control (under 160 characters).
+
 
 Why it matters: Securely signing in to SharePoint with Okta ensures that encrypted files are protected and accessible only to authorized users, enhancing collaboration without compromising data security.
 

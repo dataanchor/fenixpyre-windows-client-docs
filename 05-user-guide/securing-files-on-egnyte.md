@@ -1,10 +1,7 @@
----
-title: "Securing Files on Egnyte with FenixPyre"
-description: "Guide to encrypting and sharing files on Egnyte using FenixPyre for secure collaboration."
-slug: /05-user-guide/securing-files-on-egnyte
-keywords: [fenixpyre, encryption, egnyte, sharing]
-last_updated: 2023-10-01
----
+# Securing Files on Egnyte with FenixPyre
+
+Guide to encrypting and sharing files on Egnyte using FenixPyre for secure collaboration.
+
 
 # Why it matters: Securing files on Egnyte with FenixPyre protects sensitive data during sharing and collaboration, maintaining compliance and reducing exposure risks.
 

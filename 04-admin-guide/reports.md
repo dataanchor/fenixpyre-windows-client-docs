@@ -1,10 +1,7 @@
----
-title: "FenixPyre Reports in the Admin Dashboard"
-description: "Overview of exporting logs and using FenixPyre reports for monitoring and analysis."
-slug: /04-admin-guide/reports
-keywords: [fenixpyre, reports, admin-dashboard]
-last_updated: 2023-10-01
----
+# FenixPyre Reports in the Admin Dashboard
+
+Overview of exporting logs and using FenixPyre reports for monitoring and analysis.
+
 
 ## Why It Matters
 FenixPyre reports help administrators monitor encrypted activities and ensure compliance.

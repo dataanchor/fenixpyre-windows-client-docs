@@ -1,10 +1,7 @@
----
-title: "FenixPyre Integration with Egnyte"
-description: "Key materials for positioning FenixPyre with Egnyte for enhanced desktop protection."
-slug: /08-use-cases/egnyte-integration
-keywords: [fenixpyre, egnyte, integration, use-cases]
-last_updated: 2023-10-01
----
+# FenixPyre Integration with Egnyte
+
+Key materials for positioning FenixPyre with Egnyte for enhanced desktop protection.
+
 
 ## Why It Matters
 Integrating FenixPyre with Egnyte extends protection to desktops, securing data beyond cloud storage.

@@ -1,10 +1,7 @@
----
-title: "FenixPyre Trial and Sign-Up"
-description: "How to sign up for a FenixPyre trial and explore key features (under 160 characters)."
-slug: /03-setup-&-installation/trial-signup
-keywords: [fenixpyre, trial, sign-up, encryption]
-last_updated: 2023-10-01
----
+# FenixPyre Trial and Sign-Up
+
+How to sign up for a FenixPyre trial and explore key features (under 160 characters).
+
 
 Why it matters: A FenixPyre trial allows you to test core features like data encryption and sharing, helping you evaluate its fit for your needs.
 

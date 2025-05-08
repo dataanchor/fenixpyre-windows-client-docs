@@ -1,10 +1,7 @@
----
-title: "Enabling TLS 1.2 for FenixPyre Agent Installation"
-description: "Steps to enable TLS 1.2 on Windows to ensure secure FenixPyre Agent installation."
-slug: /03-setup-&-installation/enable-tls
-keywords: [fenixpyre, tls, security, installation]
-last_updated: 2023-10-01
----
+# Enabling TLS 1.2 for FenixPyre Agent Installation
+
+Steps to enable TLS 1.2 on Windows to ensure secure FenixPyre Agent installation.
+
 
 ## Why It Matters
 

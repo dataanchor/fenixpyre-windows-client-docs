@@ -1,10 +1,7 @@
----
-title: "Ideal Customer Profile"
-description: "Explore the ideal customers and use cases for FenixPyre to protect sensitive data effectively."
-slug: /08-use-cases/ideal-customer-profile
-keywords: [fenixpyre, encryption, customer-profile, use-cases]
-last_updated: 2023-09-01
----
+# Ideal Customer Profile
+
+Explore the ideal customers and use cases for FenixPyre to protect sensitive data effectively.
+
 
 ## Why it matters
 Understanding the ideal customer profile helps organizations identify how FenixPyre can address specific security needs, ensuring faster adoption and better protection for private files.

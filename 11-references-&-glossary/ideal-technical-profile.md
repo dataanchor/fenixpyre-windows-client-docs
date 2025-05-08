@@ -1,10 +1,7 @@
----
- title: "Ideal Technical Profile for FenixPyre"
- description: "Guidelines on the recommended technical environments and qualifications for optimal FenixPyre deployment."
- slug: /11-references-&-glossary/ideal-technical-profile
- keywords: [fenixpyre, technical-profile, compatibility, setup]
- last_updated: 2023-10-01
----
+# Ideal Technical Profile for FenixPyre
+
+Guidelines on the recommended technical environments and qualifications for optimal FenixPyre deployment.
+
 
 ## Why it matters
 Matching your environment to FenixPyre's ideal technical profile ensures reliable performance and minimizes compatibility issues.

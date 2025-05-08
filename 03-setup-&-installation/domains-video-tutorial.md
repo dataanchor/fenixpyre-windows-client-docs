@@ -1,10 +1,7 @@
----
-title: "Domains Video Tutorial"
-description: "Upcoming video tutorial for domain configurations in FenixPyre."
-slug: /03-setup-&-installation/domains-video-tutorial
-keywords: [fenixpyre, domains, tutorial]
-last_updated: 2023-10-01
----
+# Domains Video Tutorial
+
+Upcoming video tutorial for domain configurations in FenixPyre.
+
 
 ## Why it matters
 This tutorial will simplify domain setup, helping users integrate FenixPyre securely into their environments.

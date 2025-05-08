@@ -1,10 +1,7 @@
----
-title: "Restart OneDrive"
-description: "Understand how to restart OneDrive after toggling FenixPyre file collaboration settings to ensure changes take effect."
-slug: /05-user-guide/restart-onedrive
-keywords: [fenixpyre, onedrive, file-collaboration, encryption]
-last_updated: 2025-05-06
----
+# Restart OneDrive
+
+Understand how to restart OneDrive after toggling FenixPyre file collaboration settings to ensure changes take effect.
+
 
 ## Why it matters
 Restarting OneDrive is essential for applying FenixPyre encryption settings changes, ensuring secure and seamless file collaboration without delays.

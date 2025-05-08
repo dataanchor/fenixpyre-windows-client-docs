@@ -1,10 +1,7 @@
----
-title: "Uninstalling the FenixPyre Agent"
-description: "Guide to uninstalling the FenixPyre Agent via command line for secure and efficient removal."
-slug: /03-setup-&-installation/uninstalling-agent
-keywords: [fenixpyre, agent, uninstall, command-line]
-last_updated: 2023-07-09
----
+# Uninstalling the FenixPyre Agent
+
+Guide to uninstalling the FenixPyre Agent via command line for secure and efficient removal.
+
 
 ## Why it matters
 Properly uninstalling the FenixPyre Agent ensures system cleanliness and prevents potential conflicts, maintaining optimal security posture.

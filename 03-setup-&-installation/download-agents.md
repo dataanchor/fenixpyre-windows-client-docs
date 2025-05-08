@@ -1,10 +1,7 @@
----
-title: "Downloading FenixPyre Agents"
-description: "Instructions for downloading legacy and current FenixPyre Agents to set up encryption on your systems."
-slug: /03-setup-&-installation/download-agents
-keywords: [fenixpyre, encryption, agent-download, installation]
-last_updated: 2023-10-01
----
+# Downloading FenixPyre Agents
+
+Instructions for downloading legacy and current FenixPyre Agents to set up encryption on your systems.
+
 
 ## Why it matters
 Proper agent downloads ensure you have the right tools for encrypting and managing data securely across environments.

@@ -1,10 +1,7 @@
----
-title: "Securely Sharing Encrypted Files"
-description: "Guide to sharing encrypted files using FenixPyre, including steps for generating and managing shareable links."
-slug: /05-user-guide/file-sharing
-keywords: [fenixpyre, encryption, file sharing, user guide]
-last_updated: 2023-10-01
----
+# Securely Sharing Encrypted Files
+
+Guide to sharing encrypted files using FenixPyre, including steps for generating and managing shareable links.
+
 
 ## Why it Matters
 Secure file sharing ensures that encrypted data remains protected while allowing controlled access for collaboration.

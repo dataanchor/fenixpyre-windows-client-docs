@@ -1,10 +1,7 @@
----
-title: "Minimum Permissions for FenixPyre on Distributed File Systems"
-description: "Required share and NTFS permissions for using FenixPyre on DFS environments."
-slug: /03-setup-&-installation/permissions-for-dfs
-keywords: [fenixpyre, permissions, dfs, security-configuration]
-last_updated: 2023-07-09
----
+# Minimum Permissions for FenixPyre on Distributed File Systems
+
+Required share and NTFS permissions for using FenixPyre on DFS environments.
+
 
 ## Why it matters
 Proper permissions ensure FenixPyre can encrypt and decrypt files on distributed systems without access issues, maintaining data integrity.

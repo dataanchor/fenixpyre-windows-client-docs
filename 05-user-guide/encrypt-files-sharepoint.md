@@ -1,10 +1,7 @@
----
- title: "How to Encrypt Files in SharePoint"
- description: "Guide to encrypting files in SharePoint using FenixPyre for enhanced data protection."
- slug: /05-user-guide/encrypt-files-sharepoint
- keywords: [fenixpyre, encrypt, sharepoint, files]
- last_updated: 2023-10-01
----
+# How to Encrypt Files in SharePoint
+
+Guide to encrypting files in SharePoint using FenixPyre for enhanced data protection.
+
 
 ## Why it matters
 Encrypting files in SharePoint protects sensitive data from breaches, ensuring compliance and security in collaborative environments.

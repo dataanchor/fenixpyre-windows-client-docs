@@ -1,10 +1,7 @@
----
- title: "Sharing Files via Outlook"
- description: "Guidelines for sharing encrypted files using FenixPyre and Outlook."
- slug: /05-user-guide/sharing-files
- keywords: [fenixpyre, sharing, outlook, encryption]
- last_updated: 2023-10-01
----
+# Sharing Files via Outlook
+
+Guidelines for sharing encrypted files using FenixPyre and Outlook.
+
 
 # Sharing Files via Outlook
 

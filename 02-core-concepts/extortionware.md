@@ -1,10 +1,7 @@
----
-title: "What is Extortionware?"
-description: "Explains extortionware as a variant of ransomware and its threats to data privacy."
-slug: /02-core-concepts/extortionware
-keywords: [fenixpyre, extortionware, core concepts, encryption]
-last_updated: 2023-01-01
----
+# What is Extortionware?
+
+Explains extortionware as a variant of ransomware and its threats to data privacy.
+
 
 ## Why It Matters
 Extortionware not only encrypts data but also threatens to expose it publicly, amplifying reputational and compliance risks.

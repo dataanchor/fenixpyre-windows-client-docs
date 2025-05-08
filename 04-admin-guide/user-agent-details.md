@@ -1,10 +1,7 @@
----
-title: "Viewing User Agent Details"
-description: "How to access and review FenixPyre Agent details for users in the admin dashboard."
-slug: /04-admin-guide/user-agent-details
-keywords: [fenixpyre, admin, agent, details]
-last_updated: 2023-10-01
----
+# Viewing User Agent Details
+
+How to access and review FenixPyre Agent details for users in the admin dashboard.
+
 
 Why it matters: Monitoring agent details helps administrators troubleshoot and manage user endpoints effectively.
 

@@ -1,10 +1,7 @@
----
-title: "Getting Started with Okta SSO"
-description: "Guide for admins to set up Single Sign-On (SSO) with Okta for secure access to FenixPyre."
-slug: /setup-and-installation/configure-okta-sso
-keywords: [fenixpyre, sso, okta, authentication]
-last_updated: 2023-10-01
----
+# Getting Started with Okta SSO
+
+Guide for admins to set up Single Sign-On (SSO) with Okta for secure access to FenixPyre.
+
 
 ## Why it Matters
 Configuring Okta SSO streamlines user authentication, enhancing security and reducing the risk of credential-based attacks in FenixPyre environments.

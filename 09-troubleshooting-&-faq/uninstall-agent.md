@@ -1,10 +1,7 @@
----
-title: "Uninstalling the FenixPyre Agent"
-description: "Step-by-step instructions for removing the FenixPyre Agent from your system."
-slug: /09-troubleshooting-&-faq/uninstall-agent
-keywords: [fenixpyre, uninstall, agent]
-last_updated: 2023-10-01
----
+# Uninstalling the FenixPyre Agent
+
+Step-by-step instructions for removing the FenixPyre Agent from your system.
+
 
 ## Why It Matters
 Properly uninstalling the FenixPyre Agent ensures a clean system and resolves potential issues.

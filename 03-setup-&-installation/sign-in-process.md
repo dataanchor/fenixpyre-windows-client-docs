@@ -1,10 +1,7 @@
----
-title: "Signing In to FenixPyre Agent"
-description: "Step-by-step guide to sign in to the FenixPyre Agent for secure file encryption."
-slug: /03-setup-&-installation/sign-in-process
-keywords: [fenixpyre, encryption, sign-in]
-last_updated: 2023-10-01
----
+# Signing In to FenixPyre Agent
+
+Step-by-step guide to sign in to the FenixPyre Agent for secure file encryption.
+
 
 ## Why it matters
 Signing in to the FenixPyre Agent ensures your device is authenticated, enabling secure encryption and access to protected files.

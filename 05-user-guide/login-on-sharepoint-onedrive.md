@@ -1,10 +1,7 @@
----
-title: "How to Log In to FenixPyre on SharePoint/OneDrive"
-description: "Step-by-step instructions for logging in to access FenixPyre features in SharePoint and OneDrive integrations."
-slug: /05-user-guide/login-on-sharepoint-onedrive
-keywords: [fenixpyre, login, sharepoint, onedrive, integration]
-last_updated: 2023-10-01
----
+# How to Log In to FenixPyre on SharePoint/OneDrive
+
+Step-by-step instructions for logging in to access FenixPyre features in SharePoint and OneDrive integrations.
+
 
 ## Why it matters
 Secure login to FenixPyre features in SharePoint/OneDrive ensures authorized access to encrypted files, maintaining data integrity and compliance.

@@ -1,10 +1,7 @@
----
-title: "Share a File"
-description: "Securely share files from your Egnyte drive using FenixPyre."
-slug: /05-user-guide/share-a-file
-keywords: [fenixpyre, file sharing, Egnyte, encryption]
-last_updated: 2025-05-06
----
+# Share a File
+
+Securely share files from your Egnyte drive using FenixPyre.
+
 
 ## Why it matters
 Secure file sharing prevents unauthorized access and maintains data integrity, especially in collaborative environments like Egnyte.

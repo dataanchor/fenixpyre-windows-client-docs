@@ -1,10 +1,7 @@
----
-title: "What is Data Loss Prevention (DLP)?"
-description: "Understand DLP as a security technology to prevent unauthorized disclosure of sensitive data."
-slug: /11-references-&-glossary/dlp-overview
-keywords: [fenixpyre, dlp, data-security]
-last_updated: 2023-10-01
----
+# What is Data Loss Prevention (DLP)?
+
+Understand DLP as a security technology to prevent unauthorized disclosure of sensitive data.
+
 
 ## Why it Matters
 DLP helps organizations safeguard sensitive information from accidental or malicious exposure, reducing risks in data handling.

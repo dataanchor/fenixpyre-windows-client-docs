@@ -1,10 +1,7 @@
----
-title: "Installation and Setup Guide"
-description: "How to install and set up the FenixPyre Chrome extension for individual users and IT administrators."
-slug: /03-setup-&-installation/chrome-extension-setup
-keywords: [fenixpyre, installation, chrome-extension, setup]
-last_updated: 2025-05-06
----
+# Installation and Setup Guide
+
+How to install and set up the FenixPyre Chrome extension for individual users and IT administrators.
+
 
 ## Why it matters
 Proper installation of the FenixPyre Chrome extension enables secure access to encrypted files, enhancing user productivity.

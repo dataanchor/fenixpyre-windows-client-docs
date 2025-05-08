@@ -1,10 +1,7 @@
----
-title: "Managing Shared Links in the Admin Dashboard"
-description: "Overview of how to manage and monitor shared links for encrypted data in the FenixPyre Admin Dashboard to maintain security and access control."
-slug: /admin-guide/managing-shared-links
-keywords: [fenixpyre, shared-links, admin-dashboard, security]
-last_updated: 2023-10-01
----
+# Managing Shared Links in the Admin Dashboard
+
+Overview of how to manage and monitor shared links for encrypted data in the FenixPyre Admin Dashboard to maintain security and access control.
+
 
 ## Why it Matters
 Effectively managing shared links ensures that encrypted data is shared securely, preventing unauthorized access and maintaining compliance with data protection policies.

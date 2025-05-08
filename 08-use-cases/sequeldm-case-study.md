@@ -1,10 +1,7 @@
----
-title: "SequelDM Case Study"
-description: "Real-world example of FenixPyre in direct mail and data science for simple deployment and ease of use (≤160-char SEO summary)."
-slug: /08-use-cases/sequeldm-case-study
-keywords: [fenixpyre, case-study, data-science]
-last_updated: 2023-10-01
----
+# SequelDM Case Study
+
+Real-world example of FenixPyre in direct mail and data science for simple deployment and ease of use (≤160-char SEO summary).
+
 
 ## Why it Matters
 This case study demonstrates how FenixPyre simplifies data protection in direct mail and data science, enabling secure and efficient operations without complexity.

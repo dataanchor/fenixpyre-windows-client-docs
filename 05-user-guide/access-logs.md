@@ -1,10 +1,7 @@
----
-title: "Auditing Access Logs for Encrypted Files"
-description: "Learn how to audit access logs for encrypted files on Egnyte to monitor and control file access effectively."
-slug: /05-user-guide/access-logs
-keywords: [fenixpyre, encryption, auditing, egnyte]
-last_updated: 2023-10-01
----
+# Auditing Access Logs for Encrypted Files
+
+Learn how to audit access logs for encrypted files on Egnyte to monitor and control file access effectively.
+
 
 ## Why it Matters
 Auditing access logs for encrypted files ensures that only authorized users can access sensitive data, helping organizations maintain compliance and quickly respond to potential security incidents.
