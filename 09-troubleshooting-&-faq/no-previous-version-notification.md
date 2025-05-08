@@ -1,3 +1,10 @@
+---
+title: "No Previous Version Notification"
+description: "Learn how to handle notifications when no previous version of an encrypted file is available for restoration in FenixPyre."
+slug: /09-troubleshooting-&-faq/no-previous-version-notification
+keywords: [fenixpyre, encryption, troubleshooting, file-restoration]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Understanding this notification helps FenixPyre users quickly identify when file restoration is not possible, ensuring efficient data management and reducing downtime.

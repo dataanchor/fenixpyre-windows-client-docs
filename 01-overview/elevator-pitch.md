@@ -1,3 +1,10 @@
+---
+title: "Elevator Pitch for FenixPyre"
+description: "A concise overview of FenixPyre's value in enhancing data security through proactive encryption and zero trust principles."
+slug: /01-overview/elevator-pitch
+keywords: [fenixpyre, security, zero-trust]
+last_updated: 2023-10-01
+---
 
 Why it matters: This pitch quickly communicates FenixPyre's benefits, helping stakeholders understand its role in shifting from reactive to proactive data protection.
 

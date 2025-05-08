@@ -1,3 +1,10 @@
+---
+title: "FenixPyre by URL Feature"
+description: "How FenixPyre by URL automatically encrypts files downloaded from specified URLs to enhance security with minimal effort."
+slug: /07-features/fenixpyre-by-url
+keywords: [fenixpyre, encryption, url protection, features]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 FenixPyre by URL ensures that files from trusted sources are automatically encrypted, reducing risks of data breaches during downloads.

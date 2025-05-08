@@ -1,3 +1,10 @@
+---
+title: "FenixPyre System Requirements"
+description: "Minimum requirements for installing and running FenixPyre on various platforms."
+slug: /03-setup-&-installation/system-requirements
+keywords: [fenixpyre, requirements, installation]
+last_updated: 2023-10-01
+---
 
 Why it matters: Meeting system requirements ensures smooth installation and optimal performance of FenixPyre.
 

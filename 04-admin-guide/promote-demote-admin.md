@@ -1,3 +1,10 @@
+---
+title: "Promote or Demote an Admin"
+description: "Manage user roles by promoting or demoting admins in FenixPyre for better access control."
+slug: /04-admin-guide/promote-demote-admin
+keywords: [fenixpyre, admin, user-management, roles]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Properly managing admin roles ensures secure and efficient administration, preventing unauthorized access while maintaining operational control in FenixPyre.

@@ -1,3 +1,10 @@
+---
+title: "Managing Authorized Applications in FenixPyre"
+description: "Guide for admins to add and manage authorized applications for FenixPyre encryption."
+slug: /04-admin-guide/authorized-applications
+keywords: [fenixpyre, admin-guide, authorized-apps]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Authorized applications ensure that only approved tools can access decrypted data, enhancing security without disrupting workflows.

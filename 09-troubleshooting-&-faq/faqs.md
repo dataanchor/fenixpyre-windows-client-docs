@@ -1,3 +1,10 @@
+---
+title: "Frequently Asked Questions"
+description: "Answers to common questions about FenixPyre, including its features and security benefits (under 160 characters)."
+slug: /09-troubleshooting-&-faq/faqs
+keywords: [fenixpyre, faqs, encryption, security]
+last_updated: 2023-10-01
+---
 
 Why it matters: Understanding FenixPyre basics helps users leverage its encryption and access controls effectively for data protection.
 

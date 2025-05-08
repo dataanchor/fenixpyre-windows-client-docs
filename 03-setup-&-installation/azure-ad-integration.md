@@ -1,3 +1,10 @@
+---
+title: "Azure AD Integration with FenixPyre"
+description: "Step-by-step process to set up Azure Active Directory integration for FenixPyre authentication."
+slug: /03-setup-&-installation/azure-ad-integration
+keywords: [fenixpyre, azure-ad, integration]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Integrating with Azure AD streamlines user authentication and authorization, enhancing security for FenixPyre deployments.

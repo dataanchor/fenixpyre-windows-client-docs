@@ -1,3 +1,10 @@
+---
+title: "Enable or Disable Users in FenixPyre Admin Dashboard"
+description: "Step-by-step guide to managing user access in the FenixPyre Admin Dashboard, including enabling and disabling users for enhanced security."
+slug: /04-admin-guide/manage-users
+keywords: [fenixpyre, encryption, user-management, admin-dashboard]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Enabling or disabling users ensures that only authorized personnel can access encrypted data, maintaining compliance and security in FenixPyre environments.

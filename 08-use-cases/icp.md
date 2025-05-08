@@ -1,3 +1,10 @@
+---
+title: "Ideal Customer Profile (ICP)"
+description: "Overview of the ideal customers for FenixPyre, focusing on organizations with sensitive data in cloud platforms."
+slug: /08-use-cases/icp
+keywords: [fenixpyre, icp, use-cases, cloud-security]
+last_updated: 2025-05-06
+---
 
 ## Why it matters
 Understanding the ICP helps target FenixPyre to organizations that can benefit most from its zero-knowledge encryption, reducing risks like insider threats and data exfiltration.

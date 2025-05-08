@@ -1,3 +1,10 @@
+---
+title: "Common Mistakes with FenixPyre"
+description: "Avoid common errors when configuring FenixPyre to ensure smooth encryption and setup processes."
+slug: /09-troubleshooting-&-faq/common-mistakes
+keywords: [fenixpyre, troubleshooting, configuration-errors]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Understanding and avoiding common mistakes prevents configuration issues that could compromise data security or disrupt FenixPyre operations.

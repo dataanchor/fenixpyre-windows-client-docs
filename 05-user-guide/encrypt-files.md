@@ -1,3 +1,10 @@
+---
+title: "How to Encrypt Files with FenixPyre"
+description: "Learn the step-by-step process to encrypt files using the FenixPyre Agent for secure data protection."
+slug: /05-user-guide/encrypt-files
+keywords: [fenixpyre, encryption, secure-files]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Encrypting your files with FenixPyre ensures that sensitive data is protected using FIPS-validated encryption, safeguarding it from unauthorized access.

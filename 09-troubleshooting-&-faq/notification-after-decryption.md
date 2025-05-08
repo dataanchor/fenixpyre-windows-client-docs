@@ -1,3 +1,10 @@
+---
+title: "Notifications After File Decryption"
+description: "Understand the notifications users receive when decrypting files in FenixPyre, ensuring awareness of data security implications."
+slug: /09-troubleshooting-&-faq/notification-after-decryption
+keywords: [fenixpyre, decryption, notifications]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 This notification alerts users that a decrypted file is now unprotected, helping prevent unintended data exposure during collaboration.

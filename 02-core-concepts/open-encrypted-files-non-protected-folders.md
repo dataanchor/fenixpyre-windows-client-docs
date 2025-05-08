@@ -1,3 +1,10 @@
+---
+title: "Allow Processes to Open Encrypted Files in Non-Protected Folders"
+description: "Override default settings to access encrypted files outside protected folders in FenixPyre."
+slug: /02-core-concepts/open-encrypted-files-non-protected-folders
+keywords: [fenixpyre, encryption, processes, protected-folders]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 This feature enables seamless workflow by allowing authorized processes to access encrypted files anywhere, enhancing usability without compromising security.

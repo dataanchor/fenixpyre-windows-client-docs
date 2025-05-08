@@ -1,3 +1,10 @@
+---
+title: "Performing a FenixPyre Recovery Drill"
+description: "Guide to setting up and executing data recovery drills for FenixPyre."
+slug: /09-troubleshooting-&-faq/recovery-drill
+keywords: [fenixpyre, recovery-drill, troubleshooting, data-recovery]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Regular recovery drills ensure your organization can recover encrypted data quickly in case of incidents.

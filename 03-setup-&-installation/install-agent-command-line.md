@@ -1,3 +1,10 @@
+---
+title: "Install FenixPyre Agent via Command Line"
+description: "Learn how to install the FenixPyre Agent using command-line options for automated deployment."
+slug: /03-setup-&-installation/install-agent-command-line
+keywords: [fenixpyre, encryption, agent, installation]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Efficient command-line installation allows for seamless, unattended deployment of the FenixPyre Agent, ensuring secure encryption capabilities across environments.

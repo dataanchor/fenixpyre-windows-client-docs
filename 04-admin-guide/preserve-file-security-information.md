@@ -1,3 +1,10 @@
+---
+title: "How to Preserve File Security Information"
+description: "Instructions for preserving file timestamps and security info in FenixPyre."
+slug: /04-admin-guide/preserve-file-security-information
+keywords: [fenixpyre, encryption, admin-guide, file-security]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Preserving file security information ensures accurate metadata and access controls, preventing issues with cloud sync and compliance.

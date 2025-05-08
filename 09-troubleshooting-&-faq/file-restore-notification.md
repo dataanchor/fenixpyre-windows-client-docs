@@ -1,3 +1,10 @@
+---
+ title: "Handling 'No Previous Version to Restore' Notification"
+ description: "Learn why you might see the 'No Previous Version to Restore' alert and how to address it in FenixPyre."
+ slug: /09-troubleshooting-and-faq/file-restore-notification
+ keywords: [fenixpyre, restore, notification, files]
+ last_updated: 2023-10-01
+---
 
 ## Why it matters
 This notification prevents accidental data loss by alerting users when no prior versions of an encrypted file exist.

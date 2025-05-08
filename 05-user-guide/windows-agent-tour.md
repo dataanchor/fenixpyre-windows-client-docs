@@ -1,3 +1,10 @@
+---
+title: "FenixPyre Windows Agent Tour"
+description: "Overview of the user experience for encrypting data on Windows using the FenixPyre Agent."
+slug: /05-user-guide/windows-agent-tour
+keywords: [fenixpyre, encryption, windows-agent]
+last_updated: 2023-10-01
+---
 
 # Why it matters: The FenixPyre Windows Agent provides a seamless way to encrypt files on your desktop, ensuring data protection for Windows users.
 

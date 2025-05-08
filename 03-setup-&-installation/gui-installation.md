@@ -1,3 +1,10 @@
+---
+title: "GUI Installation for FenixPyre"
+description: "Step-by-step guide for manually installing the FenixPyre desktop agent on Windows (≤160-char SEO summary)."
+slug: /03-setup-&-installation/gui-installation
+keywords: [fenixpyre, installation, windows]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Proper installation ensures the FenixPyre agent is set up correctly, enabling seamless encryption and protection of sensitive data on your system.

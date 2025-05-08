@@ -1,3 +1,10 @@
+---
+title: "Encryption Success Notification"
+description: "Understand notifications received after encrypting files with FenixPyre."
+slug: /05-user-guide/encryption-notification
+keywords: [fenixpyre, encryption, notifications, access-rules]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Notifications confirm that files are securely encrypted, helping users verify protection and manage access rules effectively.

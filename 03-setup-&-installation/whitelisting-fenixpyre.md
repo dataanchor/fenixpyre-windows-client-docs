@@ -1,3 +1,10 @@
+---
+title: "Whitelisting FenixPyre on Firewalls and Anti-Virus/EDR Solutions"
+description: "Guide to whitelisting FenixPyre domains and processes for uninterrupted encryption and security (≤160-char SEO summary)."
+slug: /03-setup-&-installation/whitelisting-fenixpyre
+keywords: [fenixpyre, whitelisting, firewalls]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Whitelisting ensures FenixPyre operates without interference from security tools, maintaining effective data encryption and compliance.

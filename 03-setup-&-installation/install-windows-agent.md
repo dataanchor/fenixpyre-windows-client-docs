@@ -1,3 +1,10 @@
+---
+title: "Installing FenixPyre Agent on Windows"
+description: "Step-by-step guide for manually installing the FenixPyre desktop agent on Windows 10, 11, and Server to enhance data security."
+slug: /03-setup-&-installation/install-windows-agent
+keywords: [fenixpyre, encryption, installation, windows, agent]
+last_updated: 2023-10-01
+---
 
 ## Why It Matters
 Proper installation of the FenixPyre Agent ensures that your files are encrypted and protected on Windows systems, safeguarding sensitive data from unauthorized access.

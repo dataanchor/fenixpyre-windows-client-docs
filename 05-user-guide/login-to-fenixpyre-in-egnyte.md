@@ -1,3 +1,10 @@
+---
+title: "Logging in to FenixPyre in Egnyte"
+description: "Step-by-step instructions for users to log in and access FenixPyre features within Egnyte."
+slug: /05-user-guide/login-to-fenixpyre-in-egnyte
+keywords: [fenixpyre, encryption, egnyte, user-guide]
+last_updated: 2023-09-01
+---
 
 ## Why it matters
 A seamless login process in Egnyte allows users to securely access and manage encrypted files without disruptions.

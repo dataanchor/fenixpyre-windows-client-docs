@@ -1,3 +1,10 @@
+---
+title: "Adding a User to a User Role in FenixPyre Admin Dashboard"
+description: "Step-by-step instructions for managing user roles in the FenixPyre Admin Dashboard."
+slug: /04-admin-guide/adding-user-to-role
+keywords: [fenixpyre, admin, user-management, roles]
+last_updated: 2023-10-01
+---
 
 ## Why It Matters
 

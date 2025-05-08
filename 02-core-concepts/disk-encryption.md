@@ -1,3 +1,10 @@
+---
+title: "What is Disk Encryption?"
+description: "An overview of disk encryption and its role in data security."
+slug: /02-core-concepts/disk-encryption
+keywords: [fenixpyre, encryption, disk-encryption]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Disk encryption safeguards sensitive data on storage devices, protecting against unauthorized access even if the device is compromised.

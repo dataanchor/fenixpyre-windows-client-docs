@@ -1,3 +1,10 @@
+---
+title: "Opening Files with FenixPyre"
+description: "How to open and view encrypted files in Egnyte using FenixPyre."
+slug: /05-user-guide/open-with-anchor
+keywords: [fenixpyre, open-files, egnyte]
+last_updated: 2023-10-01
+---
 
 ## Why It Matters
 Securely opening encrypted files ensures data integrity and access control.

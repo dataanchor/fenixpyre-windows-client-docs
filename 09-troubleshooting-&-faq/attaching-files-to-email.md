@@ -1,3 +1,10 @@
+---
+title: "Troubleshooting File Attachment Issues in Email Notifications"
+description: "Resolve issues when files cannot be attached to emails in FenixPyre."
+slug: /09-troubleshooting-&-faq/attaching-files-to-email
+keywords: [fenixpyre, troubleshooting, email, encryption]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Understanding file attachment errors prevents data loss and ensures smooth encrypted file handling in email workflows.

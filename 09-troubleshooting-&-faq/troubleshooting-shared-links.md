@@ -1,3 +1,10 @@
+---
+title: "Troubleshooting Shared Links from OneDrive/SharePoint"
+description: "Common issues and solutions for accessing shared links, including link disabled, expired, or access errors."
+slug: /troubleshooting-and-faq/troubleshooting-shared-links
+keywords: [fenixpyre, troubleshooting, shared-links, onedrive]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Resolving shared link issues quickly maintains secure data sharing and prevents disruptions in collaboration.

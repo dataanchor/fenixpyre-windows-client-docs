@@ -1,3 +1,10 @@
+---
+title: "Adding Protected Folders for OneDrive/SharePoint Web"
+description: "How admins can manage protected folders for OneDrive and SharePoint in the FenixPyre Admin Dashboard."
+slug: /04-admin-guide/adding-protected-folders-for-onedrive-web
+keywords: [fenixpyre, encryption, onedrive, sharepoint]
+last_updated: 2023-09-01
+---
 
 ## Why it matters
 Protected folders ensure that files in designated locations are encrypted, preventing unauthorized access outside secure environments.

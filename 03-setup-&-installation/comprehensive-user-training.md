@@ -1,3 +1,10 @@
+---
+title: "Comprehensive Training for FenixPyre Desktop Agent"
+description: "Step-by-step guide for installing and managing the FenixPyre Desktop Agent."
+slug: /03-setup-&-installation/comprehensive-user-training
+keywords: [fenixpyre, desktop-agent, installation, training]
+last_updated: 2023-10-01
+---
 
 ## Why It Matters
 

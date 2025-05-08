@@ -1,3 +1,10 @@
+---
+title: "Checking Access Logs of a File"
+description: "How to view and monitor access logs for encrypted files in FenixPyre to track user activity and enhance security."
+slug: /05-user-guide/check-file-access-logs
+keywords: [fenixpyre, access-logs, file-security]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Access logs help track who has viewed or modified files, aiding in compliance and quick response to potential security incidents.

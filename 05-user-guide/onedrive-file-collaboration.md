@@ -1,3 +1,10 @@
+---
+title: "OneDrive File Collaboration with FenixPyre"
+description: "How FenixPyre handles file collaboration in OneDrive, including limitations and configurations."
+slug: /05-user-guide/onedrive-file-collaboration
+keywords: [fenixpyre, onedrive, collaboration, encryption]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 File collaboration in OneDrive enables real-time teamwork, but FenixPyre manages encryption to prevent data exposure during sessions.

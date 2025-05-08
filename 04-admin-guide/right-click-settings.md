@@ -1,3 +1,10 @@
+---
+title: "Right-Click Settings in FenixPyre"
+description: "Configure right-click permissions in the FenixPyre Admin Dashboard to control user actions on encrypting files."
+slug: /04-admin-guide/right-click-settings
+keywords: [fenixpyre, admin, right-click, permissions]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Right-click settings empower admins to fine-tune user interactions with encrypting files, enhancing governance and security.

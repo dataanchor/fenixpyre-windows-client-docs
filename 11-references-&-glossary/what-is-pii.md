@@ -1,3 +1,10 @@
+---
+ title: "What is Personally Identifiable Information (PII)?"
+ description: "Understand what PII is and why it's important to protect it in the context of FenixPyre encryption."
+ slug: /11-references-&-glossary/what-is-pii
+ keywords: [fenixpyre, pii, data-security, encryption]
+ last_updated: 2023-10-01
+---
 
 # What is Personally Identifiable Information (PII)?
 

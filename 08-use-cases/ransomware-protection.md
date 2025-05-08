@@ -1,3 +1,10 @@
+---
+title: "Ransomware Protection with FenixPyre"
+description: "Overview of how FenixPyre helps mitigate ransomware threats through encryption."
+slug: /08-use-cases/ransomware-protection
+keywords: [fenixpyre, ransomware, security, protection]
+last_updated: 2023-10-01
+---
 
 ## Why It Matters
 FenixPyre's encryption capabilities provide a robust defense against ransomware, ensuring data remains secure even if attacked.

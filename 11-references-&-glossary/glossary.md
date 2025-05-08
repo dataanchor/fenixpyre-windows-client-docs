@@ -1,3 +1,10 @@
+---
+title: "What is PHI?"
+description: "Definition and importance of Protected Health Information (PHI) in the context of data security and compliance."
+slug: /11-references-&-glossary/glossary
+keywords: [fenixpyre, phi, data-security, compliance]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Understanding PHI is crucial for complying with regulations like HIPAA, ensuring sensitive health data is protected from breaches.

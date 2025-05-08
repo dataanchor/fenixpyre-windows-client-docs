@@ -1,3 +1,10 @@
+---
+ title: "How to Enable OneDrive File Collaboration in FenixPyre"
+ description: "Learn how to enable seamless file collaboration on OneDrive using FenixPyre to enhance secure teamwork and data protection."
+ slug: /05-user-guide/enable-onedrive-collaboration
+ keywords: [fenixpyre, encryption, onedrive, collaboration]
+ last_updated: 2023-10-01
+---
 
 ## Why it matters
 Enabling OneDrive file collaboration in FenixPyre ensures that encrypted files can be shared and edited securely, maintaining data integrity while fostering team productivity.

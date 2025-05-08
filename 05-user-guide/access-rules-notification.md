@@ -1,3 +1,10 @@
+---
+title: "Invalid Access Rules Notification"
+description: "Understand notifications for invalid access rules in FenixPyre and how to manage them effectively."
+slug: /05-user-guide/access-rules-notification
+keywords: [fenixpyre, access rules, encryption, notifications]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Access rules in FenixPyre ensure that only authorized users can access encrypted content, protecting sensitive data and maintaining compliance.

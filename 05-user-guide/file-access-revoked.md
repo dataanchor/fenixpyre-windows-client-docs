@@ -1,3 +1,10 @@
+---
+title: "File Access Revoked Notification"
+description: "Learn how to handle and revoke file access in FenixPyre, including notifications and steps for administrators."
+slug: /05-user-guide/file-access-revoked
+keywords: [fenixpyre, encryption, access-revocation, user-guide]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Understanding file access revocation helps maintain security by ensuring only authorized users can access encrypted files, protecting sensitive data.

@@ -1,3 +1,10 @@
+---
+title: "Prerequisites for Setting Up SCIM"
+description: "Essential requirements for configuring SCIM user provisioning with FenixPyre to automate user management."
+slug: /03-setup-&-installation/scim-prerequisites
+keywords: [fenixpyre, scim, user-provisioning, setup]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Setting up SCIM ensures efficient, secure user provisioning, reducing manual errors and integrating with your identity provider.

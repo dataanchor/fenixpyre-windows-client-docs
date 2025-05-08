@@ -1,3 +1,10 @@
+---
+title: "Sharing Encrypted Folders and Files in Egnyte with FenixPyre"
+description: "How to securely share encrypted content in Egnyte using FenixPyre controls."
+slug: /05-user-guide/sharing-encrypted-folders-in-egnyte
+keywords: [fenixpyre, egnyte, sharing, encryption]
+last_updated: 2023-10-01
+---
 
 Sharing encrypted folders in Egnyte with FenixPyre maintains data security while enabling controlled collaboration.
 

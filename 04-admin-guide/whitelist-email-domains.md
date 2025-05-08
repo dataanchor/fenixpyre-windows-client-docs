@@ -1,3 +1,10 @@
+---
+title: "Whitelisting Email Domains"
+description: "How to whitelist email domains in FenixPyre Admin Dashboard for secure user authentication."
+slug: /04-admin-guide/whitelist-email-domains
+keywords: [fenixpyre, email-domains, security, admin-guide]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Whitelisting email domains restricts access to trusted users, reducing the risk of unauthorized entry into the FenixPyre platform.

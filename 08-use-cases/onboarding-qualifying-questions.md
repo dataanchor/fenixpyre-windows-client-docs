@@ -1,3 +1,10 @@
+---
+title: "Key Qualifying Questions for Onboarding"
+description: "Essential questions to assess file protection needs during onboarding with FenixPyre."
+slug: /08-use-cases/onboarding-qualifying-questions
+keywords: [fenixpyre, encryption, onboarding]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 These questions help identify gaps in current file protection strategies, ensuring a seamless transition to FenixPyre.

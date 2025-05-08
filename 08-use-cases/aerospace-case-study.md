@@ -1,3 +1,10 @@
+---
+title: "Aerospace MRO Case Study with FenixPyre"
+description: "Real-world application of FenixPyre in aerospace, manufacturing, and compliance scenarios."
+slug: /08-use-cases/aerospace-case-study
+keywords: [fenixpyre, aerospace, case-study, compliance]
+last_updated: 2023-10-01
+---
 
 ## Why It Matters
 FenixPyre simplifies compliance and data protection in aerospace and manufacturing, as demonstrated in this case study.

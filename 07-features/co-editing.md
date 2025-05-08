@@ -1,3 +1,10 @@
+---
+title: "Co-Editing in Egnyte with FenixPyre"
+description: "Enable collaborative editing of encrypted files in Egnyte while maintaining security."
+slug: /07-features/co-editing
+keywords: [fenixpyre, co-editing, egnyte]
+last_updated: 2023-10-01
+---
 
 # Co-Editing in Egnyte with FenixPyre
 

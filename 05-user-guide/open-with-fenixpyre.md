@@ -1,3 +1,10 @@
+---
+title: "Open Files with FenixPyre"
+description: "Guide to securely opening encrypted files in OneDrive or SharePoint using FenixPyre."
+slug: /05-user-guide/open-with-fenixpyre
+keywords: [fenixpyre, OneDrive, SharePoint, encryption]
+last_updated: 2025-05-06
+---
 
 ## Why it matters
 Securely opening encrypted files ensures users access sensitive data only through authorized channels, preventing unauthorized exposure.

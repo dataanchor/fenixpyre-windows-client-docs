@@ -1,3 +1,10 @@
+---
+title: "Downloading Content as ZIP"
+description: "Step-by-step guide to downloading and decrypting FenixPyre-protected content as a ZIP file."
+slug: /05-user-guide/downloading-content
+keywords: [fenixpyre, download, decryption, ZIP]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Downloading content as a ZIP file allows users to access decrypted files easily, while maintaining control over sensitive data distribution.

@@ -1,3 +1,10 @@
+---
+title: "Save-As Limitations with Adobe Applications"
+description: "Learn about potential issues when using Save-As in Adobe apps with FenixPyre and how to mitigate them."
+slug: /09-troubleshooting-&-faq/save-as-limitations-with-adobe
+keywords: [fenixpyre, adobe, troubleshooting]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 This limitation could lead to unprotected files, so understanding mitigations helps maintain encryption integrity in shared environments.

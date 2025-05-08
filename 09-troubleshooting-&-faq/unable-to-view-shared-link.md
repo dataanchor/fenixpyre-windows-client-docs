@@ -1,3 +1,10 @@
+---
+title: "Unable to View Shared Link"
+description: "Troubleshoot common errors when accessing encrypted shared links in FenixPyre."
+slug: /09-troubleshooting-&-faq/unable-to-view-shared-link
+keywords: [fenixpyre, encryption, troubleshooting, shared-links]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Understanding and resolving access issues with shared links ensures seamless collaboration while maintaining data security.

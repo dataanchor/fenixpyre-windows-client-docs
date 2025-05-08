@@ -1,3 +1,10 @@
+---
+title: "Prerequisites for Getting Started"
+description: "Essential requirements and steps for setting up FenixPyre, including agent installation and integrations, to ensure a smooth deployment."
+slug: /03-setup-&-installation/prerequisites
+keywords: [fenixpyre, encryption, setup, prerequisites]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Understanding and meeting these prerequisites ensures that your FenixPyre environment is properly configured, preventing common issues during installation and integration.

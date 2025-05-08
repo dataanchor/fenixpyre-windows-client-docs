@@ -1,3 +1,10 @@
+---
+title: "What's New in FenixPyre v4.0.0"
+description: "Explore new features, resolved issues, and known limitations in FenixPyre v4.0.0 for enhanced data encryption and security (≤160-char SEO summary)."
+slug: /10-release-notes/whats-new-v4-0-0
+keywords: [fenixpyre, release-notes, updates]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 These updates improve FenixPyre's ability to protect source code and enhance user workflows, reducing risks in data encryption and sharing for better security.

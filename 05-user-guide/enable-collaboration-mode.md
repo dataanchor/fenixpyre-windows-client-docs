@@ -1,3 +1,10 @@
+---
+title: "How to Enable Collaboration Mode on Office Documents"
+description: "Step-by-step instructions to enable collaboration on Office files in FenixPyre, enhancing team productivity while maintaining encryption."
+slug: /05-user-guide/enable-collaboration-mode
+keywords: [fenixpyre, collaboration, office-documents, registry]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Enabling collaboration mode allows secure, real-time editing of encrypting Office documents, fostering teamwork without compromising data security.

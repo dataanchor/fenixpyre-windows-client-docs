@@ -1,3 +1,10 @@
+---
+title: "Frequently Asked Questions"
+description: "Answers to common questions about FenixPyre encryption, decryption, and performance to help troubleshoot issues effectively."
+slug: /09-troubleshooting-faq/index
+keywords: [fenixpyre, encryption, troubleshooting]
+last_updated: 2023-10-01
+---
 
 Why it matters: These FAQs provide quick resolutions to common queries, minimizing downtime and ensuring smooth operation of FenixPyre's encryption features.
 

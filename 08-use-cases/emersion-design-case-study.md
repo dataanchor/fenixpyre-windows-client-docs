@@ -1,3 +1,10 @@
+---
+title: "Emersion Design Case Study"
+description: "Explore how FenixPyre enhances security for small businesses in design and compliance scenarios like CMMC."
+slug: /08-use-cases/emersion-design-case-study
+keywords: [fenixpyre, case-study, CMMC, small-business, design]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 This case study demonstrates how FenixPyre simplifies secure data handling for small businesses, improving ease of use and compliance in design workflows.

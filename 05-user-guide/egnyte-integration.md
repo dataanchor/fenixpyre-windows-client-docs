@@ -1,3 +1,10 @@
+---
+title: "FenixPyre Integration with Egnyte"
+description: "How FenixPyre enforces access policies for Egnyte-stored encrypted content to maintain data security."
+slug: /05-user-guide/egnyte-integration
+keywords: [fenixpyre, egnyte, integration]
+last_updated: 2023-10-01
+---
 
 Why it matters: This integration ensures consistent policy enforcement on Egnyte, protecting sensitive data through defined user roles and access controls.
 

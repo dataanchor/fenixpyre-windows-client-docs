@@ -1,3 +1,10 @@
+---
+title: "CMMC Sales Collateral for FenixPyre"
+description: "Access key sales materials for positioning FenixPyre in CMMC compliance scenarios."
+slug: /08-use-cases/cmmc-sales-collateral
+keywords: [fenixpyre, cmmc, sales, compliance]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 CMMC-compliant collateral helps partners effectively market FenixPyre's encryption solutions to clients in regulated industries.

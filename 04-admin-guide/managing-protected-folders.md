@@ -1,3 +1,10 @@
+---
+title: "Managing Protected Folders"
+description: "Guide to setting up and managing protected folders in the FenixPyre Admin Dashboard."
+slug: /04-admin-guide/managing-protected-folders
+keywords: [fenixpyre, protected-folders, admin]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Protected folders ensure that encrypted content is only accessible in designated locations, enhancing data security and control.

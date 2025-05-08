@@ -1,3 +1,10 @@
+---
+title: "Manual Installation of FenixPyre Agent"
+description: "Guide to manually installing the FenixPyre Agent on Windows 10/11 and servers."
+slug: /03-setup-&-installation/manual-installation
+keywords: [fenixpyre, installation, agent, windows]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Proper agent installation is essential for encrypting files and integrating FenixPyre with your environment.

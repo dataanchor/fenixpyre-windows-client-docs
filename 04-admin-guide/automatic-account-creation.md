@@ -1,3 +1,10 @@
+---
+title: "What is Automatic Account Creation in FenixPyre"
+description: "Understand Just-in-Time provisioning for seamless user onboarding with FenixPyre."
+slug: /04-admin-guide/automatic-account-creation
+keywords: [fenixpyre, admin-guide, account-creation]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Automatic account creation simplifies user access via SAML SSO, reducing administrative overhead while maintaining security.

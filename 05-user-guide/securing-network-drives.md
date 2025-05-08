@@ -1,3 +1,10 @@
+---
+title: "Securing Data on Network Drives with FenixPyre"
+description: "Steps to encrypt and protect files on network drives for enhanced security."
+slug: /05-user-guide/securing-network-drives
+keywords: [fenixpyre, network drives, encryption, security]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Protecting network drives prevents unauthorized access and ensures sensitive data remains encrypted across shared environments.

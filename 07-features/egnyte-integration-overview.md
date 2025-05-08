@@ -1,3 +1,10 @@
+---
+title: "FenixPyre App on Egnyte: An Overview"
+description: "Details on the enhanced FenixPyre integration with Egnyte for better performance and security."
+slug: /07-features/egnyte-integration-overview
+keywords: [fenixpyre, egnyte, integration, features]
+last_updated: 2023-10-01
+---
 
 The FenixPyre app on Egnyte improves collaboration and security for encrypted files, supporting larger files and granular controls.
 

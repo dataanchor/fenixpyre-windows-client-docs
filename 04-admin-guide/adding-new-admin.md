@@ -1,3 +1,10 @@
+---
+title: "Adding a New Admin in FenixPyre Admin Dashboard"
+description: "Step-by-step guide to adding and managing admins in the FenixPyre Admin Dashboard for enhanced security."
+slug: /04-admin-guide/adding-new-admin
+keywords: [fenixpyre, admin, user-management, encryption]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Proper admin management ensures only authorized personnel can access and configure FenixPyre settings, maintaining organizational security.

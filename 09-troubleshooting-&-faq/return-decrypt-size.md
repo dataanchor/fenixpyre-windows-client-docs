@@ -1,3 +1,10 @@
+---
+title: "Return Decrypt Size Overview"
+description: "Brief explanation of decrypt size handling in FenixPyre, including potential troubleshooting steps."
+slug: /09-troubleshooting-&-faq/return-decrypt-size
+keywords: [fenixpyre, decryption, troubleshooting, size]
+last_updated: 2023-10-01
+---
 
 ## Why It Matters
 Understanding decrypt size ensures that decryption processes in FenixPyre run efficiently, preventing issues with file handling and system performance.

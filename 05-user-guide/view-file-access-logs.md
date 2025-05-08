@@ -1,3 +1,10 @@
+---
+title: "View File Access Logs in OneDrive/SharePoint"
+description: "Learn how to view access logs for encrypted files to monitor user activity and ensure data security."
+slug: /05-user-guide/view-file-access-logs
+keywords: [fenixpyre, encryption, access-logs, onedrive, sharepoint]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Viewing file access logs helps maintain compliance and detect unauthorized access to encrypted files, ensuring your organization's data remains secure.

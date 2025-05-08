@@ -1,3 +1,10 @@
+---
+title: "Encrypting Files on Endpoints"
+description: "Learn how to encrypt files and folders securely using FenixPyre on your endpoints to protect sensitive data from unauthorized access."
+slug: /setup-and-installation/encrypting-files-on-endpoints
+keywords: [fenixpyre, encryption, endpoints, security]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Encrypting files on endpoints is essential for safeguarding sensitive data at the source, ensuring compliance and protection against breaches in today's distributed work environments.

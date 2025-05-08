@@ -1,3 +1,10 @@
+---
+title: "What is PCI DSS?"
+description: "An explanation of the Payment Card Industry Data Security Standard and its requirements for protecting credit card data."
+slug: /11-references-&-glossary/pci-dss
+keywords: [fenixpyre, encryption, PCI DSS, glossary]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 PCI DSS compliance is crucial for organizations handling credit card data to prevent fraud and ensure secure transactions.

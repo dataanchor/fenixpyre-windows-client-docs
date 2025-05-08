@@ -1,3 +1,10 @@
+---
+ title: "Preserve File Properties"
+ description: "Learn how to configure FenixPyre to preserve file timestamps and security information during encryption and decryption operations."
+ slug: /04-admin-guide/preserve-file-properties
+ keywords: [fenixpyre, encryption, file-properties, security]
+ last_updated: 2023-10-01
+---
 
 # Preserve File Properties
 

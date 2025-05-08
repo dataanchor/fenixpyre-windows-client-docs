@@ -1,3 +1,10 @@
+---
+title: "Authorized Applications in FenixPyre"
+description: "Explanation of authorized applications and how they enable secure access to encrypted files based on access rules."
+slug: /05-user-guide/authorized-applications
+keywords: [fenixpyre, encryption, authorized-apps, access-rules]
+last_updated: 2023-10-01
+---
 
 ## Why it matters
 Authorized applications ensure that only trusted tools can decrypt and display data, enforcing security policies and preventing misuse.

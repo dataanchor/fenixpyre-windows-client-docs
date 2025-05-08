@@ -1,3 +1,10 @@
+---
+title: "Enable Auto-Encryption for Folders"
+description: "Learn how to set up auto-encryption for folders in FenixPyre Admin Dashboard to protect your data seamlessly."
+slug: /04-admin-guide/enable-auto-encryption-for-folders
+keywords: [fenixpyre, encryption, auto-encryption, admin-guide]
+last_updated: 2023-10-01
+---
 
 ## Why it Matters
 Auto-encryption ensures that new files added to specified folders are automatically encrypted, safeguarding sensitive data without manual intervention.
