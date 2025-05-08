@@ -1,0 +1,19 @@
+---
+title: "What is a C3PAO?"
+description: "Definition and role of a Cybersecurity Continuous Monitoring Third-Party Assessment Organization (C3PAO)."
+slug: /11-references-&-glossary/c3pao-definition
+keywords: [fenixpyre, c3pao, cybersecurity]
+last_updated: 2023-10-01
+---
+
+## Why it Matters
+Understanding C3PAOs helps organizations comply with federal cybersecurity standards through accredited assessments.
+
+A C3PAO is a "Cybersecurity Continuous Monitoring Third-Party Assessment Organization," accredited by CISA to evaluate an organization's cybersecurity posture and issue reports.
+
+This supports initiatives like the CCM program, promoting ongoing monitoring for federal agencies and contractors.
+
+> **Note:** C3PAOs must adhere to established standards for accurate assessments.
+
+### Next Steps / Related Topics
+Refer to the full [Glossary](/11-references-&-glossary/index.md) for more terms.
